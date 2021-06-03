@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>More work for George Keith being Geroge Keith's vindication of the people called Quakers as well in his part of the dispute held at Wheelers-Street the 16th day of the 8th month, 1674. As in his treatise against Thomas Hicks, and other Baptists, with the rest of their confederate brethren at the Barbican dispute, held at London the 28th of the 6th month, 1674.</title>
+            <author>Penn, William, 1644-1718.</author>
+         </titleStmt>
+         <extent>Approx. 97KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27985</idno><idno type="EEBO-CITATION">99825015</idno>
+  <idno type="VID">207411</idno>
+  <idno type="EEBO-PROQUEST">2248503048</idno>
+  
+            <idno type="STC">Wing P1323</idno>
+            <idno type="PROQUEST">99825015</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825015e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27985)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207411)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2129:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>More work for George Keith being Geroge Keith's vindication of the people called Quakers as well in his part of the dispute held at Wheelers-Street the 16th day of the 8th month, 1674. As in his treatise against Thomas Hicks, and other Baptists, with the rest of their confederate brethren at the Barbican dispute, held at London the 28th of the 6th month, 1674.</title>
+                  <author>Penn, William, 1644-1718.</author>
+                  <author>Keith, George, 1639?-1716. Vindication from the forgeries and abuses of T. Hicks, and W. Kiffin, with the rest of his confederate brethren of the Barbican-meeting, held at London the 28th of the 6th month, 1674. aut</author>
+               </titleStmt>
+               <extent>[10], 46 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by T. Sowle near the Meeting-House in VVhite-Hart-Court in Gracious-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By William Penn.</note>
+                  <note>Caption title on p. 1 reads: "See brief narrative, of the meeting at Wheelers-Street, &amp;c. Published by W. Mead, and others, printed 1674. beginning at page 46"; caption title on p. 24 reads: "George Keith's vindication from the forgeries and abuses of T. Hicks, and W. Kiffin, with the rest of his confederate brethren of the Barbican-meeting, held at London the 28th of the 6th month, 1674", and is signed: George Keith.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Keith, George, 1639?-1716 --  Early works to 1800.</term>
+               <term type="topical_term">Society of Friends --  Early works to 1800.</term>
+               <term type="topical_term">Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207411:1"/>
+            <p> MORE WORK FOR <hi>George Keith;</hi> BEING GEORGE KEITH's Vindication of the People Called QUAKERS As well in his Part of the Dispute held at <hi>Wheelers-Street</hi> the <hi>16th</hi> Day of the <hi>8th Month,</hi> 1674. As in his Treatise against <hi>Thomas Hicks,</hi> and other <hi>Baptists,</hi> with the rest of their Confederate Brethren at the <hi>Barbican</hi> Dispute, held at <hi>London</hi> the <hi>28th</hi> of the <hi>6th Month,</hi> 1674.</p>
+            <p>
+               <hi>LONDON:</hi> Printed and Sold by <hi>T. Sowle</hi> near the <hi>Meeting-House</hi> in <hi>VVhite-Hart-Court</hi> in <hi>Gracious-street.</hi> 1696.</p>
+            <pb facs="tcp:207411:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:207411:2"/>
+            <head>THE PREFACE.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>I Here present thee with <hi>George Keith</hi>'s <hi>Vindication</hi> of the People called <hi>Quakers,</hi> and Himself, against the <hi>Abuses</hi> and <hi>Forge<g ref="char:EOLhyphen"/>ries</hi> (as he calls them) of <hi>T. Hicks,</hi> and other <hi>Baptists,</hi> which is not to revive Old Contro<g ref="char:EOLhyphen"/>sies, but to show <hi>G. K.</hi> to himself <hi>and</hi> the <hi>World:</hi> By all which thou wilt find,</p>
+            <p n="1">1. That <hi>G. Keith</hi> did then profess him<g ref="char:EOLhyphen"/>self a <hi>Quaker.</hi>
+            </p>
+            <p n="2">2. That he Defended us as one with us, against the Clamours and unjust dealings of the <hi>Baptists.</hi> Which consisted in a mis-re<g ref="char:EOLhyphen"/>presentation of our Faith to the World; <hi>As if we did not believe in</hi> Jesus Christ <hi>as born of the</hi> Virgin Mary, <hi>his Death, Suffer<g ref="char:EOLhyphen"/>ings, Resurrection, and Mediation; and de<g ref="char:EOLhyphen"/>nyed the Divine Authority of the</hi> Scriptures of Truth; <hi>and the Resurrection of the Dead to Rewards and Punishments.</hi>
+            </p>
+            <p n="3">3. That he came amongst us <hi>upon a Di<g ref="char:EOLhyphen"/>vine Call, and the Work of Gods Spirit; that he felt Life to his Soul in obeying it, and Gods pre<g ref="char:EOLhyphen"/>sence with him, in defending of us, as his People.</hi> Thus far the following Treatise shews.</p>
+            <p n="4">4. <hi>G. Keith</hi> after all this, hath had Sto<g ref="char:EOLhyphen"/>mach <hi>Rank enough</hi> to lick up even <hi>T. Hicks</hi>
+               <pb facs="tcp:207411:3"/> Vomit, and <hi>Wrath enough</hi> to Spew it out at his <hi>Quondam</hi> Friends, saying the same things of us, that <hi>T. H.</hi> and other Baptists did; Terming us <hi>Antichristians, Sadduces, &amp; Hereticks of the deepest dye. Such as no Chri<g ref="char:EOLhyphen"/>stian Country would tolerate. Worse then Pope<g ref="char:EOLhyphen"/>ry, and which the Papists themselves are bet<g ref="char:EOLhyphen"/>ter Christians then to own or suffer:</hi> Calling up<g ref="char:EOLhyphen"/>on <hi>Church</hi> and <hi>State, Conformists</hi> and <hi>Dissen<g ref="char:EOLhyphen"/>ters,</hi> whom once he esteemed <hi>Incompetent</hi> Judges of us and Religion (for he owned none for Ministers or Christians, but those that were so made and Commissioned by the Immediate Workings and Motions of the Spirit of God, which they deny) to <hi>read</hi> us, <hi>remark</hi> us, and <hi>write</hi> against us, and to <hi>follow</hi> our Meetings closely, with Disputa<g ref="char:EOLhyphen"/>tions to Confound us. For it seems nothing else but a <hi>total Subversion</hi> of us, as a People, can appease the rage of this angry Man. It is plain he <hi>threatens</hi> our <hi>Books,</hi> if not us, with a <hi>Judicial</hi> Sentence, perhaps the Fire; for his Words have <hi>Smoak,</hi> if not <hi>Coals</hi> in them: See his Narrative of the Meeting at <hi>Turners-Hall;</hi> and especially a new piece since Published, called <hi>Antichrists, and Sad<g ref="char:EOLhyphen"/>duces Detected.</hi> 'Tis well for us the Law, <hi>de Haeretico Comburendo,</hi> is repealed; Else I fear, the Spirit that Acts this poor Man, if it had as much Credit as Bitterness,
+<pb facs="tcp:207411:3"/> would quickly <hi>try</hi> the Experiment, and enact us to <hi>Smith-Field.</hi> But what is astonishing, and as incredible as Transubstantiation, <hi>G. K.</hi> for all this will have it that <hi>he is by no means altered,</hi> and at the same time finds fault with us, for being the same we were when he was so much in Love with us. If he be the same he was, and we are the same we were, why do we disagree? Why are we not one, as once we were? Is there any <hi>difference</hi> between being <hi>One,</hi> &amp; be<g ref="char:EOLhyphen"/>ing the <hi>same?</hi> Yet <hi>We,</hi> that he says are both of us the <hi>same</hi> we were, are not, it seems of the same mind we were, but as opposite as <hi>Light</hi> and <hi>Darkness, Truth</hi> and <hi>Error, Christ</hi> and <hi>Antichrist; for then we were his Beloved, his best Friends, and most dear Brethren; Blessing God for the Knowledge of his way we professed, and the Fellowship he had therein with us.</hi> Then we were <hi>sound, and the People of God, and true Christians;</hi> and our Adversaries <hi>Ʋnjust</hi> in their Charges against us. He writ for us, disputed for us; and made it an argument, why he should be believed against them, be<g ref="char:EOLhyphen"/>cause he knew us better, and what we held, and had writ, than they did; as he tells <hi>Cotten Mather,</hi> and the <hi>New England Clergy;</hi> and in our behalf, and in defence of our writings (his present, <hi>pretended,</hi> stumbling-block)
+<pb facs="tcp:207411:4"/> as well as our profession, he Challen<g ref="char:EOLhyphen"/>ges, Opposes, and Exposes them as Zealous<g ref="char:EOLhyphen"/>ly as he used to do Twenty Years ago, and this was but Four Years since, in his Book he writ against them; yet now we are <hi>An<g ref="char:EOLhyphen"/>tichrists, Sadduces and the worst of Hereticks.</hi> And how Pray, did all this wonderful change come about? Who has better Informed him? How came he convinced? Why he has late<g ref="char:EOLhyphen"/>ly read our Books, and weighed them better then he had done. But Reader, is this <hi>Credi<g ref="char:EOLhyphen"/>ble,</hi> of so Learned a Man, so ancient a Profes<g ref="char:EOLhyphen"/>sor, and a Minister too, of our way? What! To be a <hi>Member</hi> of a <hi>Church,</hi> near 30 Years and a Teacher in it, whose Doctrines he did not know, till his resentment of the dissatisfa<g ref="char:EOLhyphen"/>ction of some of the People called <hi>Quakers,</hi> in <hi>America,</hi> with his <hi>uncooth Phrases and Jewish Fables,</hi> first opened his Eyes; <hi>the common Door</hi> at which most <hi>Apostates,</hi> in all Ages, have turned out from the Communion of the true Christian Society. Well! But if we are changed, whatever he be, he allows us to be better, that is, <hi>more Orthodox now than we were:</hi> We have mended a little then, and he would have us in management to compleat the Work. But if we are more <hi>Orthodox,</hi> he ought then to be nearer us, &amp; we better trea<g ref="char:EOLhyphen"/>ted; and yet alas, he was never further from us, nor <hi>more envious</hi> to us, than now.</p>
+            <pb facs="tcp:207411:4"/>
+            <p> But poor man, he would not be thought to be Changed, though he but too plain<g ref="char:EOLhyphen"/>ly and loudly proves he is not the same he was; yet we must be what we were, or he loses the advantage he thinks he has upon us, for it is with our older Books he findeth the most fault. A severe <hi>Dilemma!</hi> But Alas, who can help it? Can his <hi>Philosophy,</hi> at this dead lift, dis-entangle him from this difficulty? Surely not. His <hi>Spirit</hi> is al<g ref="char:EOLhyphen"/>tered, his <hi>apprehensions</hi> of our Principle are changed, both as to the <hi>Extent</hi> and <hi>Efficacy</hi> of it; and his <hi>Sentiments</hi> of us are altered. In vain then does he say he is the <hi>same G. K. he was,</hi> when with us; he is no more that <hi>G. K.</hi> than he is <hi>G. Whitehead,</hi> or <hi>W. Penn,</hi> or <hi>T. El<g ref="char:EOLhyphen"/>wood,</hi> he once esteemed and embraced, and now inveighs against; tho' perhaps he is but too much, what he represents them to be. After all this, <hi>Bragg</hi> of him that will, <hi>Boast</hi> of him that please; Those that love Chari<g ref="char:EOLhyphen"/>ty, <hi>Truth,</hi> and <hi>Impartiallity</hi> at any rate, can never think him a mighty <hi>Purchase:</hi> If yet he be any body's, or can <hi>Stick</hi> at any <hi>Mark,</hi> or indeed be his <hi>own</hi> Man. A Person without Judgment, with all his Learning; without Temper in his Converse, and with<g ref="char:EOLhyphen"/>out Stability in his Religion. To conclude, his <hi>Passion</hi> and <hi>Resentment,</hi> have over<g ref="char:EOLhyphen"/>set him;
+<pb facs="tcp:207411:5"/> and of a Friend, made him an open Enemy; and He that was always so, has embrac'd this opportunity, and Improves it against us; and throws this <hi>Bomb</hi> among us, to blow us up, now he can <hi>hunt</hi> us no <hi>longer</hi> with his <hi>Hiltons</hi> and his <hi>Collingwoods, those No<g ref="char:EOLhyphen"/>torious Informers;</hi> and that his other lesser Tools, lately employed by him, have spent their <hi>Ammunition,</hi> and are sunk in their <hi>Stock</hi> and <hi>Credit;</hi> As will this noisy froward De<g ref="char:EOLhyphen"/>serter in a little time, after all his threats and charges. I heartily wish th<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> any thing may provoke him to <hi>Repentance;</hi> for what I write, is for his <hi>Correction,</hi> and not for his <hi>Destructi<g ref="char:EOLhyphen"/>on.</hi> And one would think, if not hope, that beholding himself well what he was, whence fallen, and why and how; and considering his former Enjoymnets, when in fellowship with us, and his present vexation, and disappointment; having at last few, if any <hi>Proselites from among us.</hi> with the dismal pro<g ref="char:EOLhyphen"/>spect of the Consequence of so fearful a <hi>Lapse</hi> at last, as to the other World, might work some Remorse and Contrition upon him, before it be too late. Which I heartily wish he may find, to the glory of <hi>Gods Grace,</hi> the recovery and happiness of his own poor Soul, and the comfort of his <hi>Wounded and Sor<g ref="char:EOLhyphen"/>rowful</hi> Friends; that stand much readier, af<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:207411:5"/> all his evil entreatment of them, to for<g ref="char:EOLhyphen"/>give, than retaliate or upbraid, his <hi>Grievous</hi> and <hi>Provoking Backslidings.</hi>
+            </p>
+            <p>Now Reader, I leave thee: Peruse, with Care, Temper and Justice, what fol<g ref="char:EOLhyphen"/>lows, and then Judge if <hi>G. K.</hi> be a Competent Person to be received by any a<g ref="char:EOLhyphen"/>gainst us, or that we ought to be the worse thought of, for his Invectives who does but <hi>Actum Agere,</hi> do the same thing over again for he gives no new Discovery, what he does, is no more then what has been done to his Hand, by our common Enemies, and against which he hath so often Engaged in our common defence.</p>
+            <pb facs="tcp:207411:6"/>
+         </div>
+      </front>
+      <body>
+         <div type="debate">
+            <pb n="1" facs="tcp:207411:6"/>
+            <argument>
+               <p>
+                  <hi>See Brief</hi> Narrative, <hi>of the Meeting as</hi> Wheelers-Street, <hi>&amp;c. Published by</hi> W. Mead, <hi>and others, Printed</hi> 1674. <hi>begin<g ref="char:EOLhyphen"/>ning at</hi> Page 46.</p>
+            </argument>
+            <sp>
+               <speaker>VV. <hi>Penn,</hi>
+               </speaker>
+               <p>Let us come to the Mat<g ref="char:EOLhyphen"/>ter; I offer this to <hi>Jeremiah Ives;</hi> I will stand to all that <hi>T. H.</hi> hath instanced out of our Books, and prove him a <hi>Forger</hi> concerning them. Here hath been much Discourse beside the End of our Meeting; and this, I say, is the Matter of our Meeting, to prove <hi>T. H.</hi> guilty of <hi>For<g ref="char:EOLhyphen"/>gery,</hi> and if thou <hi>J. I.</hi> does personate <hi>T. H.</hi> let me go on, and I will prove thee a <hi>Forger;</hi> let me go on, and I will prove thee a <hi>Forger;</hi> read the Charge.</p>
+               <stage>[The People with one voice cry, Read the Charge.]</stage>
+            </sp>
+            <sp>
+               <speaker>T. P.</speaker>
+               <p>
+                  <hi>R. T. We will have no Charge read.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W. Penn,</speaker>
+               <p>Let <hi>T. Plant</hi> himself read the Charge.</p>
+               <stage>[The <hi>Baptists</hi> renew their Noise.]</stage>
+            </sp>
+            <sp>
+               <speaker>W. Penn,</speaker>
+               <p>My friendly Auditors, the Matter is, whether we are <hi>Christians</hi> or not; <hi>T. H.</hi> saith no, we are not, and he will prove it out of our Books: I charge him with <hi>Forgery</hi> there<g ref="char:EOLhyphen"/>in, and am ready to prove it, ere I go out of this Place; Is not this fair?</p>
+               <stage>[The People generally cry out, <hi>This is fair, this is fair.]</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>W. Penn,</speaker>
+               <p>If you do not intend to proceed
+<pb n="2" facs="tcp:207411:7"/> upon the Charge as it is here, but <hi>T. H.</hi> must do it, let him come where we shall agree to meet, and let our Charge be read, and indiffe<g ref="char:EOLhyphen"/>rent Persons <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear what we have to say, and so let it be Published to the World.</p>
+            </sp>
+            <sp>
+               <speaker>T. Plant,</speaker>
+               <p>
+                  <hi>The</hi> Quakers <hi>are offended that</hi> T. H. <hi>hath so writ; we begun upon the first Article of the Charge at</hi> Barbican; <hi>we come hither this day upo<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the defence of that Article,</hi> Hicks <hi>opposing the</hi> Ch<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>istian <hi>to the</hi> Quaker; <hi>and therefore, because the Doctrines you hold are inconsistent with</hi> Chri<g ref="char:EOLhyphen"/>stian <hi>Religion; we come to prove you no</hi> Christians; <hi>but a<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to the particular Charge,</hi> T. H. <hi>himself must be concerned in it; therefore there must be such a Meeting; for if he sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uld speak as much as we do here, he might be quite spent or kill'd: So for asmuch as you do not consent to the Discourse as offered, to prove a</hi> Quaker <hi>no</hi> Christian, <hi>we will appoint such a Meeting as you say, and then let it be Printed to the World.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W. Penn,</speaker>
+               <p>
+                  <hi>T. Hicks</hi> hath writ such things, I grant, I come to prove him a <hi>Forger</hi> therein, and that he is no <hi>Christian:</hi> Will not this an<g ref="char:EOLhyphen"/>swer to every ones Expectation and Understan<g ref="char:EOLhyphen"/>ding? He saith, <hi>C<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>stian</hi> so, <hi>Quaker</hi> so: Wilt thou prove it <hi>T. H.</hi> say we? <hi>Yea,</hi> saith he, <hi>I will <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et b<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te you one Word,</hi> as he said before: So then t<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Person grieved is the <hi>Quaker;</hi> here is the <hi>G<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ie<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e,</hi> that <hi>T. H.</hi> has <hi>Forged</hi> things under <hi>Our Name;</hi> we call upon the <hi>Baptists</hi> to hear us: If <hi>T. H.</hi> had Lungs and Voic<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> enough <hi>a<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Barbican,</hi> surely he might have been one of <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ur here; but seeing he has declined to appear, we do consent to such a Meeting, to hear the
+<pb n="3" facs="tcp:207411:7"/> Debate, and when it is heard, before an Audi<g ref="char:EOLhyphen"/>tory agreed on, being taken by Writers, that it go forth to the World.</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>I would have added, as we met by Con<g ref="char:EOLhyphen"/>sent at first, so let us meet by Consent again, that you may not be incumbred with Propositions at the next Meeting; so will ye refer the Matter to such a Meeting? And will ye now closely fall to hearing the Proof, that ye are no</hi> Christians?</p>
+            </sp>
+            <sp>
+               <speaker>W. Penn,</speaker>
+               <p>Hath <hi>J. Ives</hi> Lungs enough now to go upon that, and not upon our Charge as it ly<g ref="char:EOLhyphen"/>eth?</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>There is some things in that which I can<g ref="char:EOLhyphen"/>not manage; that which I can manage is, that you are No</hi> Christians, <hi>and that I will manage against you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W. Penn,</speaker>
+               <p>If <hi>J. I.</hi> will debate all here, let us begin; if n<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> all here, then why any here? Is this to proceed methodically? Nay, but it of<g ref="char:EOLhyphen"/>fers Violence to the Order agreed upon.</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>I am well satisfied to enter into that De<g ref="char:EOLhyphen"/>bate, to prove you No</hi> Christians.</p>
+            </sp>
+            <sp>
+               <speaker>W. Penn,</speaker>
+               <p>We are not afraid to meet with thee, nor to give an Account of our Faith and Belief in our Lord Jesus Christ, That he was born of the Virgin <hi>Mary,</hi> that he preached a Heavenly Do<g ref="char:EOLhyphen"/>ctrine, confirmed it by many Miracles, was cru<g ref="char:EOLhyphen"/>cified and rose again, and ascended into Glory, and is God over all, blessed for ever. But if all must not be debated here, for which we do ar<g ref="char:EOLhyphen"/>raign them, and have exhibited our Charge, which they refuse (so much as to have read) we might very justly refuse to answer to them in this Matter.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:207411:8"/>
+               <speaker>J. Ives,</speaker>
+               <p>W. Penn <hi>hath made a Confession of his Faith; I will prove that what he hath said is Equi<g ref="char:EOLhyphen"/>vocation, and that you are no</hi> Christians; <hi>but what you say is rather to accommodate your Party to the</hi> Vulgar: <hi>I do say, the</hi> Quakers <hi>are No</hi> Christi<g ref="char:EOLhyphen"/>ans; <hi>but what they say is Equivocation: I am here now to prove you no</hi> Christians; <hi>if you will not con<g ref="char:EOLhyphen"/>sent to that, we will break up the Meeting.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W. Penn,</speaker>
+               <p>Well, let him then.</p>
+            </sp>
+            <sp>
+               <speaker>W. Welch,</speaker>
+               <p>Take notice, this is a Condescen<g ref="char:EOLhyphen"/>sion on our Part: The Charge on our part was to prove <hi>T. H.</hi> a <hi>Forger;</hi> this I say, is a Con<g ref="char:EOLhyphen"/>descension.</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>It is no Condescension.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W. Penn,</speaker>
+               <p>It is a receding from the Matter, therefore a Condescension; but go on <hi>Jeremy,</hi> and do thy utmost Strength; we shall answer thee.</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>I say, it is no Condescension, that those that are charg'd to be no</hi> Christians, <hi>to hear them<g ref="char:EOLhyphen"/>selves proved so. If</hi> W. P. <hi>be no</hi> Christian, <hi>then all that he hath said concerning Christ is Equivocati<g ref="char:EOLhyphen"/>on: But</hi> W. P. <hi>is no</hi> Christian; <hi>Therefore,</hi> &amp;c.</p>
+               <stage>[Here the <hi>Baptists</hi> made merry among them<g ref="char:EOLhyphen"/>selves.]</stage>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>Although, according to the Method of Dispute, we are not obliged to hear thy Proofs, until first our Proof be heard against <hi>T. H.</hi> that he is a <hi>Forger</hi> (we being the first plan<g ref="char:EOLhyphen"/>tiffs) yet we will condescend to lear <hi>J. I.</hi> his Proofs in this Matter.</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>W. Penn <hi>is my Adversary, not that</hi> Gentleman; <hi>I charge</hi> W. P. <hi>with Equivocation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>I do not interpose, as being diffi<g ref="char:EOLhyphen"/>dent
+<pb n="5" facs="tcp:207411:8"/> in <hi>W. P. for I believe he is able enough</hi> to answer thee; but I sympathize with him, be<g ref="char:EOLhyphen"/>cause of his Bodily Strength.</p>
+            </sp>
+            <sp>
+               <speaker>W. Penn,</speaker>
+               <p>If <hi>T. Plant, R. Taylor,</hi> and the Man that hath his <hi>Two Reasons</hi> yet behind, have had Liberty to speak one after another, I think I may have the Liberty to let another speak sometimes for me.</p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>My Name is in all the Articles of Agreement concerning those Meetings, and am <hi>abused as well as W. P.</hi> so I may well, being a fresh Man, and having Regard to his Bodily Strength, be admitted to speak in this Matter.</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>Will you then undertake it?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>Yea, I am ready to undertake it, and by the Lord's Assistance to debate it with thee for a Pair of Hours.</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>How say you? for a Pair of Hours? Yea, yea, six if ye will. Speak out, my Hearing is not good; and you being a Stranger, I cannot well un<g ref="char:EOLhyphen"/>derstand your Dialect.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>I shall repeat <hi>J. I</hi>'s Argument: <hi>If</hi> W. P. <hi>be no</hi> Christian, <hi>he is an Equivocator: But he is no</hi> Christian, <hi>therefore he is an Equivocator.</hi> I deny <note place="margin">
+                     <hi>Then</hi> G. K. <hi>not only allowed</hi> W. Penn, <hi>but the</hi> Quakers, <hi>to be Christians, and as such adheared to them, ap<g ref="char:EOLhyphen"/>peared with them, and defended them; they are not changed, then</hi> G. Keith <hi>must be changed, since now he calls them</hi> Hereticks, Antichrists <hi>and</hi> Sadduces; <hi>if so, an Apostate from them, and a Changeling to other Sentiments.</hi>
+                  </note> both his Propositions of his <hi>Argument:</hi> Let him prove the Consequence of his first Pro<g ref="char:EOLhyphen"/>position; that is, <hi>That if he be no</hi> Christian, <hi>then an</hi> Equi<g ref="char:EOLhyphen"/>vocator.</p>
+               <pb n="6" facs="tcp:207411:9"/>
+               <p> —Russel, <hi>That Man speaks so</hi> Scottish, <hi>that we cannot well understand him.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>Though my Voice is small, yet it is clear and distinct: And I being a Stranger, not of the <hi>English</hi> Nation, but of another Nation, ye should be more civil to me, as a <hi>Stranger:</hi> I hope I shall speak intelligibly.</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>You have done well; Have you done like a Schollar? like a Disputant?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>Shew me wherein I erred or failed.</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>You have not repeated my Argument right: My Argument was founded upon</hi> W. P's Con<g ref="char:EOLhyphen"/>fession <hi>of his</hi> Faith, <hi>that he believed, that</hi> Jesus Christ is God and Man, <hi>and that</hi> he dyed for Sins. <hi>My Argument is this; If</hi> W. P. <hi>be No</hi> Christian, <hi>then all he hath said is Equivocation: But</hi> W. P. <hi>is no</hi> Christian; Ergo.</p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>I deny both his Propositions.</p>
+               <stage>[Here <hi>J. Ives</hi> stirred up the People to Light<g ref="char:EOLhyphen"/>ness, that <hi>G. K.</hi> thereby was interrupted.]</stage>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>Do you understand the Propositions?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>I suppose I do, but I shall repeat them before the Auditory, that ye may know I understand them: Thy Argument is thus: <hi>If</hi> W. P. <hi>be no</hi> Christian, <hi>then he is an Equivocator: But</hi> W. P. <hi>is no</hi> Christian; <hi>therefore he is an E<g ref="char:EOLhyphen"/>quivocator.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>That was not my Argument.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>I understood it so, to be the same upon the Matter.</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>My Argument was this; If</hi> W. P. <hi>be no</hi> Christian, <hi>then all his Confessions of Christ are Equivocations: But</hi> W. P. <hi>is no</hi> Christian; <hi>there<g ref="char:EOLhyphen"/>fore,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:207411:9"/>
+               <speaker>G. Keith,</speaker>
+               <p>Well, the Argument is the same upon the Matter, as I said before: I deny both the Propositions.</p>
+               <stage>[Here <hi>J. I.</hi> stirred up again to Laughter, as if <hi>G. K.</hi> had given some ridiculous or unlaw<g ref="char:EOLhyphen"/>ful Answer.]</stage>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>I desire to be heard, and I shall show, that my Answer is Lawful and Orderly, according to the Method of Dispute; for <hi>Ar<g ref="char:EOLhyphen"/>guments</hi> have <hi>two Propositions</hi> and a <hi>Conclusion;</hi> Now the <hi>Conclusion</hi> follows always the weaker <hi>Proposition;</hi> and so if one of the <hi>Propositions</hi> be false, the <hi>Conclusion</hi> is false: But sometimes both the <hi>Propositions</hi> are false, as in this Case; though I had denyed only his <hi>second Proposition,</hi> it might suffice; yet the <hi>first Proposition</hi> being false, I also deny it; for it implies that all who are not <hi>Christians</hi> are <hi>Equivocators,</hi> which is false, for a man, from a true Conviction may confess both to the <hi>Divinity</hi> and <hi>Manhood of Christ,</hi> and yet not be converted to be a <hi>true Christian,</hi> and <hi>this Confession</hi> of his is <hi>no Equi<g ref="char:EOLhyphen"/>vocation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>I speak not in general, but in particular of</hi> W. P.</p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>But the <hi>Proposition</hi> is founded up<g ref="char:EOLhyphen"/>on the <hi>General,</hi> and so if it hold not in the <hi>Ge<g ref="char:EOLhyphen"/>neral,</hi> it doth not hold in the <hi>Particular</hi> of W. P.</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>Will you lay the Stress upon the Denyal of the first Proposition?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>Not the <hi>whole,</hi> but a <hi>part</hi> of it.</p>
+               <stage>
+                  <hi>[J. Ives</hi> again stirred up to Lightness.]</stage>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>I desire to be heard peaceably, I
+<pb n="8" facs="tcp:207411:10"/> am a Stranger that liveth about four hundred Miles off this place; ye ought to be more <hi>Civil</hi> to me, that I am a <hi>Stranger,</hi> of another <hi>Nati<g ref="char:EOLhyphen"/>on;</hi> not seek to oppress me, because I am of little Stature: I ought to be heard without In<g ref="char:EOLhyphen"/>terruption; for I have stay'd about this Month, waiting on this Occasion. I say, I lay not the whole Stress upon the <hi>Denyal of the first Propo<g ref="char:EOLhyphen"/>sition,</hi> but a <hi>part</hi> of it; for the <hi>Conclusion</hi> leaneth not in whole upon one <hi>Proposition,</hi> but on both.</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>I prove the Consequence of the first Pro<g ref="char:EOLhyphen"/>position: He who confesseth what he denyeth, his Confessions are Equivocations; But</hi> W. P. <hi>confes<g ref="char:EOLhyphen"/>seth what he denyeth,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>I shall repeat the <hi>Argument,</hi> that ye may know if I have heard it aright: <hi>He who confesseth what he denyes in his Heart, his Confes<g ref="char:EOLhyphen"/>sions are Equivocations; But</hi> W. P. <hi>confesseth what he denieth in his Heart,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>You repeat my Argument wrong; I did not say, what he denyeth in his Heart, but what he denyeth.</hi>
+               </p>
+               <stage>
+                  <hi>[Reader,</hi> Take notice, <hi>J. Ives</hi> denies that he said, <hi>W. P. denyeth in his Heart what he confes<g ref="char:EOLhyphen"/>sed;</hi> So it is but a <hi>Verbal Denyal,</hi> that <hi>J. Ives</hi> doth alledge.]</stage>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>Well, I deny the <hi>second Proposition,</hi> to wit, <note place="margin">
+                     <hi>Here</hi> G. Keith, <hi>thou clearest</hi> W. P. <hi>of E<g ref="char:EOLhyphen"/>quivocation, and with him the People called</hi> Quakers, <hi>for</hi> J. Ives <hi>opposed the People in the Name and Person of</hi> W. P. <hi>yet now thou wilt have them deceitful and insincere in what they say as to Christianity; who can think thou wert Sincere then, and not Insincere now? But more of this anon.</hi>
+                  </note>
+                  <hi>That</hi> W. P. <hi>confesseth what he denyeth.</hi>
+               </p>
+               <stage>
+                  <pb n="9" facs="tcp:207411:10"/>
+[Note, <hi>Reader,</hi> That because I did not com<g ref="char:EOLhyphen"/>monly use the Terms <hi>Major</hi> and <hi>Minor,</hi> J. Ives laugh'd and stirr'd up the People to Laughter: Whereto I replied, <hi>That I waved the Terms,</hi> Ma<g ref="char:EOLhyphen"/>jor <hi>and</hi> Minor, <hi>for the sake of the Vulgar,</hi> because they were not so easie to be understood, as <hi>first</hi> and <hi>second Proposition.]</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>I prove that</hi> W. P. <hi>confesseth what he denyeth: If</hi> W. P. <hi>denyeth Jesus Christ, he con<g ref="char:EOLhyphen"/>fesseth what he denyeth; But</hi> W. P. <hi>denyeth Je<g ref="char:EOLhyphen"/>sus Christ,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>I deny the <hi>se<g ref="char:EOLhyphen"/>cond</hi>
+                  <note place="margin">
+                     <hi>If</hi> W. P. <hi>did then be<g ref="char:EOLhyphen"/>lieve in Jesus Christ, as thou maintainedst; Pray when did he fall from that Faith? Wouldst thou defend what was not true? Who then should care, what thou sayst against him? And if true, of what value is thy present Clamour?</hi>
+                  </note>
+                  <hi>Proposition,</hi> viz. <hi>That</hi> W. P. <hi>denyeth Jesus Christ.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>I prove it thus: He who hath no Rule of his Faith and Practice, denyeth Jesus Christ: But</hi> W. P. <hi>hath no Rule of his Faith and Practice; Therefore,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>I deny again <note place="margin">
+                     <hi>If</hi> W. P. <hi>amd the People called</hi> Qua<g ref="char:EOLhyphen"/>kers <hi>under that Name had not only</hi> true Faith <hi>in Christ, but also a</hi> Right Rule <hi>for their Faith, what more is requisite for a true Christian? And if true Christians, how are they now</hi> Hereticks, An<g ref="char:EOLhyphen"/>tichrists <hi>and</hi> Sadduces? <hi>This shows thy fall, and not thou their Error.</hi>
+                  </note> the <hi>second Proposition,</hi> viz. <hi>That</hi> W. P. <hi>hath no Rule for his Faith and Practice.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>I prove the second Proposition: If</hi> W. P. <hi>have any Rule for his Faith and Practice, it must either be immediate Inspiration, or the Scrip<g ref="char:EOLhyphen"/>ture: But</hi> W. P. <hi>hath neither immediate Inspi<g ref="char:EOLhyphen"/>ration</hi>
+                  <pb n="10" facs="tcp:207411:11"/>
+                  <hi>nor the Scripture for his Rule of Faith and Practice; therefore,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>I deny the second Proposition; for he hath both, <hi>viz. immediate Inspiration,</hi> as the <hi>primary Rule; and the Scripture as the secondary.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>I prove he hath not</hi> immediate Inspira<g ref="char:EOLhyphen"/>tion. <hi>He who hath</hi> immediate Inspiration <hi>for his Rule, must give an Evidence of it in his Ministry unto others, that he is a true Minister of Christ, such as no Impostor can give: But</hi> W. Penn <hi>can give no Evidence of it in his Ministry unto others, that he is a true Minister; therefore,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>G. K.</speaker>
+               <p>Here <hi>J. I.</hi> thou dost transgress the just Laws of Dispute, by an Error called in the Schools. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that is to say, A Transition from one kind of Matter to another: For first, thou didst undertake to prove, that <hi>W. P.</hi> was no <hi>Christian,</hi> and now thou under<g ref="char:EOLhyphen"/>takest to prove him to be no <hi>Minister;</hi> he may be a true <hi>Ch<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>isti<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n,</hi> and yet not a <hi>Minister,</hi> so as to be able in words to minister to others; for these two, <hi>Ch<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>istian</hi> and <hi>Minister,</hi> are not reci<g ref="char:EOLhyphen"/>procal T<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rms: Every true <hi>Minister</hi> is a <hi>Christian;</hi> but every true <hi>Christian</hi> is not a <hi>Minister.</hi>
+               </p>
+               <stage>[Here again <hi>J. I</hi> with <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e <hi>Baptists</hi> his Con<g ref="char:EOLhyphen"/>federates stirred up to laugh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er.]</stage>
+            </sp>
+            <sp>
+               <speaker>G. Kei<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h,</speaker>
+               <p>I desire to be heard: To defend <hi>W. P.</hi> to <note place="margin">W. P. <hi>is again a Christian, and because</hi> G. K. <hi>beli<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ved him so, he so def<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nded him; but now denies him to be a Christian, and vile<g ref="char:EOLhyphen"/>ly entreats him for be<g ref="char:EOLhyphen"/>ing the same M<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n. Is this a Character to</hi> G. K<hi>'s Honour?</hi>
+                  </note> be a Minister, is not my pre<g ref="char:EOLhyphen"/>sent Task, <hi>but to be a</hi> Chri<g ref="char:EOLhyphen"/>stian, that is the present Mat<g ref="char:EOLhyphen"/>ter in hand; when this is discussed, I shall not decline the other; therefore <hi>J. I.</hi> is unreasonab<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to go from the Matt<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r of the Dis<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to another Matter.</p>
+               <pb n="11" facs="tcp:207411:11"/>
+            </sp>
+            <sp>
+               <speaker>J. I.</speaker>
+               <p>
+                  <hi>I am content to leave out the Term Minister.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>I desire the Auditory to take notice of this Advantage against <hi>J. Ives,</hi> how he pas<g ref="char:EOLhyphen"/>seth from his last Argument; let us hear his next.</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>He who hath immediate Inspiration for his Rule, must have an Evidence, whereby to di<g ref="char:EOLhyphen"/>stinguish it from an Imposture; but</hi> W. Penn <hi>hath no Evidence, whereby to distinguish it from an Im<g ref="char:EOLhyphen"/>posture; therefore,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>I deny the second Proposition.</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>He hath no Evidence, because be can show no Evidence, so as to make it appear; for ye know the Maxim, Of that which appeareth not, and of that which is not, is the same Reason.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>He hath no Evidence, because he can shew no Evidence, I deny the Consequence; for a Man may have an Evidence of a thing which he cannot show; and as to that Maxim, <hi>De non apparentibus, et non▪existentibus eadem est ratio,</hi> it holdeth not true Universally; but is false in many Cases; as it doth not appear to me, whe<g ref="char:EOLhyphen"/>ther the <hi>Dutch</hi> or <hi>French</hi> have had the Victory in the last War, must I therefore conclude, that none of them had it?</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>It is true, the Maxim holdeth not in all Cases, but in this it holdeth; for if</hi> W. Penn <hi>have any Evidence that he hath immediate Inspiration, he ought to give a Proof of it to others: Let</hi> W. P. <hi>prove himself to be a</hi> Christian, <hi>otherwise we are no<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> bound to believe him.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>We do not impose upon you to be<g ref="char:EOLhyphen"/>lieve that we are <hi>Christians,</hi> but recommend it to every Man's Conscience in the sight of God,
+<pb n="10" facs="tcp:207411:12"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:207411:12"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:207411:13"/>
+                  <hi>as he shall witness for us;</hi> b<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that is not our present Wor<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <note place="margin">
+                     <hi>Is</hi> G. K. <hi>consistent with himself now? will he allow</hi> W. <hi>P. and his Friends the same Latitude now, that they may be Cbristians from the Witness in themselves? Than no necessity for any of his new Modelled Creeds to Evidence the<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Christianity; then he and the</hi> Baptists <hi>are still at the sa<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> odds about the Evidence of Christianity; then the</hi> Quake<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <hi>are Christians; for all the</hi> Baptists <hi>clamours.</hi>
+                  </note> to prove our selves to<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>Christians,</hi> but to answer<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>I.</hi> his Argument, where<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> he undertook to prove th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> we are no <hi>Christians.</hi>
+               </p>
+               <stage>[Here <hi>G. Whitehead</hi> offered to speak, but the<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> would not suffer him, alledging, that it wa<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> agreed upon, that the Dispute should only b<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> betwixt <hi>J. I.</hi> and <hi>G. K.]</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>I said, I was willing by God's As<g ref="char:EOLhyphen"/>sistance to undertake it; and so I am ready still▪ <hi>finding the Lord present with me;</hi> but I did not engage, that none others should speak what they had <note place="margin">
+                     <hi>Was</hi> GOD's PRE<g ref="char:EOLhyphen"/>SENCE <hi>with thee in defending of</hi> W. <hi>P. and the People called</hi> Quakers, <hi>against the clamorous Charge of the</hi> Baptists, <hi>and yet</hi> W. P. <hi>&amp;c. are An<g ref="char:EOLhyphen"/>tichrists for holding the very same things they then held: Either thou lyedst in the Name of the Lord, or thou art fallen from that Presence. Would the most Just and Wise God vouchsafe his Presence to encourage a bad Cause? Or would the Holy One so much as wink at De<g ref="char:EOLhyphen"/>ceit? What dost thou make of God? But, O what, hast thou made of thy self! Either thou hadst no Savour and Di<g ref="char:EOLhyphen"/>scerning of God's Presence, or thou hadst. If thou hadst not, thy Presumption and Blasphemy is very great. If thou hadst, thy Judgment now must be very false, for the Cause and People are the same. The Lord over-rule thy Passion, qualifie thy Rage, humble thy Mind, and tender thy Heart, and by Con<g ref="char:EOLhyphen"/>trition restore thee, if it be his Blessed Will.</hi>
+                  </note> upon them by any pressing necessity, nor did any others engage to any such thing; but seeing ye will not suffer others to speak, I answer the same with what <hi>G. W.</hi> hath said, that <hi>J. I.</hi> goeth again from his Matter, which was to prove <hi>W. P.</hi> to be no <hi>Christian;</hi> and instead of proving that, he putteth me to prove that <hi>W. P.</hi> is a <hi>Christian,</hi> or that we are <hi>Christians.</hi> Are all his Proofs come to this <hi>Beggarly Shift?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="13" facs="tcp:207411:13"/>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>If ye can give no Evidence of it, ye are no</hi> Christians.</p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>What Evidence wouldst thou have? <hi>Must I</hi>
+                  <note place="margin">
+                     <hi>What thou saidst then for us against the</hi> Baptists, <hi>we say now against thee and them that abet thee. They that are gone from the Spirit or deny it, and profess Christ in their natural and prejudiced Estate, being Stran<g ref="char:EOLhyphen"/>gers to the Operations of it, or Rebellious a<g ref="char:EOLhyphen"/>gainst it, and Quenchers of it, are no Compe<g ref="char:EOLhyphen"/>tent Judges of the Truth of our Christia<g ref="char:EOLhyphen"/>nity, for it is hid from them, and that Eye with which they see and judge, never did nor can see and judge of Spiritual things.</hi>
+                  </note>
+                  <hi>be no</hi> Christian, <hi>because I can<g ref="char:EOLhyphen"/>not express my inward Senti<g ref="char:EOLhyphen"/>ment, to natural and prejudiced Men? We can at least give as good Evidence, that we are</hi> Christians, <hi>as</hi> J. Ives, <hi>or a<g ref="char:EOLhyphen"/>ny</hi> Baptists <hi>on Earth can give, that they are</hi> Christians; if by <hi>Evidence</hi> he means a <hi>Li<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> and <hi>Practice,</hi> answerable to <hi>Christianity.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>I am glad, that at least, ye will paral<g ref="char:EOLhyphen"/>lel <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> with you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:207411:14"/>
+               <speaker>G. Keith,</speaker>
+               <p>I <hi>speak modest<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+                  <note place="margin">
+                     <hi>Do we</hi> George, <hi>stand at least upon e<g ref="char:EOLhyphen"/>qual terms with the</hi> Baptists, <hi>as to Evi<g ref="char:EOLhyphen"/>dence of our being Christians? how cam'st thou then to App<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>al to the</hi> Baptists <hi>now, a<g ref="char:EOLhyphen"/>mong other parts, a<g ref="char:EOLhyphen"/>gainst us now as He<g ref="char:EOLhyphen"/>reticks, Antichrists, and Sadduces? Nay, thou dost as good as tell the</hi> Baptists, <hi>that we can give greater, but what is become of it, I cannot tell, and am heartily sorry thou hast lost thine of being an humble, loving, honest, and tender-hearted</hi> Quaker.</note> we stand, <hi>at least upon eq<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> ground with you,</hi> as to <hi>E<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>dence:</hi> I say, we can give<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>good Evidence;</hi> I do not sa<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>we cannot give greater:</hi>
+                  <gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> you require another outwar<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Evidence,</hi> than a <hi>good Life o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Practice,</hi> as namely, <hi>eith<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Miracles,</hi> or a <hi>verbal Demon<g ref="char:EOLunhyphen"/>stration,</hi> then it will follow<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>that no dumb Man can be a Chri<g ref="char:EOLunhyphen"/>stian,</hi> because he can give n<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Evidence</hi> of it by <hi>verbal De<g ref="char:EOLunhyphen"/>monstration.</hi>
+               </p>
+               <stage>[Here <hi>W. P.</hi> as having a stronger Voice, be<g ref="char:EOLhyphen"/>gan to repeat my Argument, giving the Instance of a <hi>dumb Man.]</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>I speak nothing of a dumb Man; why do you alledge this?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>I do not say, thou didst alledge it; for it was not to thy Advantage; but I alledged it, as making against thee.</p>
+               <stage>[Here some <hi>Baptists</hi> denyed that <hi>G. K.</hi> alled<g ref="char:EOLhyphen"/>ged the Instance of a <hi>dumb Man;</hi> but many of the Auditory that stood near him affirmed, they heard him give the Instance.]</stage>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>But 'tis well known</hi> W. P. <hi>is not a dumb Man: I speak not of</hi> Infants <hi>or</hi> dumb Men.</p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>But if a dumb Man, who can give no <hi>verbal Demonstration,</hi> may be a <hi>Christian;</hi> it
+<pb n="15" facs="tcp:207411:14"/> followeth, that others may be <hi>Christians,</hi> who can't <hi>verbally</hi> demonstrate it.</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>I speak of Things, not of Persons; I require you to give one Evidence of your Faith and Practice.</hi>
+               </p>
+               <stage>[Here <hi>T. Plant</hi> repeated this Distinction of <hi>J. I.</hi> that he spake <hi>of Things, not Persons;</hi> it seems the Man admired it, as a very <hi>Learned Distinction.]</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>Thou dost vainly Distinguish; for thou speak'st both of Persons and Things: Are not <hi>W. P.</hi> and <hi>G. K.</hi> Persons? Now thou re<g ref="char:EOLhyphen"/>quirest us <hi>(to wit) W. P.</hi> and <hi>G. K.</hi> to give an Evidence of our Faith and Practice, to prove our selves to be <hi>Christians,</hi> which is not our pre<g ref="char:EOLhyphen"/>sent work to do, as is already shewed; <hi>and it is sufficient that we have the</hi> Witness <hi>in our selves,</hi> as the Scripture saith, <hi>He that believeth, hath the Witness in himself.</hi> And Friends, and all People here present, I have one thing more of great weight to signifie unto you, and that is, to tell you, That although the <hi>Baptists</hi> do falsly accuse us, as deriving our <hi>Pedigree</hi> from the <hi>Jesuits,</hi> yet it may appear <hi>how near a-kin</hi> they are to the <hi>Jesuits,</hi> seeing I can produce a <hi>Jesuit</hi> who hath used the very same <hi>Argument</hi> upon the Matter, against all the <hi>Protestants,</hi> which the <hi>Baptists</hi> have this day made use of against us: The <hi>Je<g ref="char:EOLhyphen"/>suit</hi> is one <hi>Dempster,</hi> his Argument and the whole Prosecution of it, together with the An<g ref="char:EOLhyphen"/>swers thereunto by one, called a <hi>Protestant Minister, J. M.</hi> is in Print, the Title of the Book is <hi>Baptismus Lucifugus. See, People, how the</hi>
+                  <pb n="16" facs="tcp:207411:15"/>
+                  <hi>whole</hi> Protestant Cause <hi>lieth at the Stake; in the Defence</hi>
+                  <note place="margin">WE, WITH ALL TRUE PROTE<g ref="char:EOLhyphen"/>STANTS, <hi>are con<g ref="char:EOLhyphen"/>cerned; shews we were then</hi> George, <hi>not more</hi> Papists <hi>than thy self; how comes it I pray thee now, that we must be less Pro<g ref="char:EOLhyphen"/>testants than we were? Do we hold now, what we denyed then? Or dost not thou</hi> George, <hi>deny now, what thou heldst then? At least, thou lookest upon us with another Eye, an Evil Eye, and like the Jaundies, it gives a false representation of Objects. This is thy Case, thy Malady; and Repentance must be thy Cure, or thy Case is desperate, and irretrievable.</hi>
+                  </note>
+                  <hi>whereof</hi> we, with all true <hi>Pro<g ref="char:EOLhyphen"/>testants,</hi> are concerned against the <hi>Jesuits</hi> and <hi>Bap<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ists,</hi> to their own Overthrow, who take up the <hi>Papists</hi> Argu<g ref="char:EOLhyphen"/>ments against themselves.</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>Give me an Evidence how I may know that you have immediate Revelation for your Faith and Practice, from Heaven or from Hell.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>That is not my Task at present; I do not impose it upon thee so to b<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lieve.</p>
+            </sp>
+            <sp>
+               <speaker>J. Ives,</speaker>
+               <p>
+                  <hi>Then we have done, not a word more.</hi>
+               </p>
+               <stage>
+                  <hi>[G. Keith</hi> offered farther to proceed.]</stage>
+               <stage>[J. Ives <hi>refused.]</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>W. Penn,</speaker>
+               <p>Then let me take up the Argument with <hi>T. Plant</hi> or <hi>Rob. Taylor.</hi>
+               </p>
+               <stage>[They refused.]</stage>
+               <stage>
+                  <hi>[G▪ Keith</hi> offered to proceed with <hi>J. Ives</hi> thus.]</stage>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>
+                  <hi>He is not a</hi> Jew <hi>that is one outward<g ref="char:EOLhyphen"/>ly▪ but he is a</hi> Jew <hi>that is one</hi> inwardly: I offer to prove my self, by as good Arguments, that I am a <hi>Christian,</hi> as the best <hi>Baptists</hi> in the World can produce.</p>
+               <stage>
+                  <hi>[J. Ives</hi> would not hear, but refused to re<g ref="char:EOLhyphen"/>assume the Argument.] </stage>
+            </sp>
+            <sp>
+               <pb n="17" facs="tcp:207411:15"/>
+               <speaker>W. Penn:</speaker>
+               <p>
+                  <hi>J. Ives, T. Plant, R. Taylor,</hi> What mean you by this <hi>Evasive Carriage?</hi> Is this the Enter<g ref="char:EOLhyphen"/>tainment we receive from you after our Conde<g ref="char:EOLhyphen"/>scention to your Importunities? <hi>First,</hi> You de<g ref="char:EOLhyphen"/>clined our <hi>Charge: Next,</hi> Though you pretend to prove us <hi>No Christians,</hi> you now clamour at us, <hi>to prove our selves Christians;</hi> and because we tell you it is not our part at this time, since you undertook <hi>to prove us None,</hi> you set your Company a Bawling for a <hi>Retreat:</hi> But that you may see we will follow you into all your SHIFTS, I will undertake the <hi>Proof</hi> of our being CHRISTIANS, with any of you, upon such <hi>Evidences,</hi> as <hi>Christians</hi> and <hi>Martyrs</hi> have been wont to give; and if they happen to prove <hi>No Evidences in your esteem,</hi> I will make it appear, that <hi>you not only do conclude us, but</hi> YOUR SELVES, <hi>with the best of those you esteem</hi> Chri<g ref="char:EOLhyphen"/>stians, <hi>gross</hi> IMPOSTORS.</p>
+            </sp>
+            <sp>
+               <speaker>G. VVhitehead,</speaker>
+               <p>Observe how far this Debate is gone.</p>
+               <p>1st, The Result of <hi>J. Ives,</hi> his proving the <hi>Quakers</hi> no <hi>Christians,</hi> is turned to a putting it on us to prove our selves <hi>Christians,</hi> and <hi>VV. Penn</hi> a <hi>Minister,</hi> which was not the Question.</p>
+               <p>2d, That we must Evidence that <hi>immediate Revelation</hi> is our <hi>Rule,</hi> or else we are no <hi>Chri<g ref="char:EOLhyphen"/>stians,</hi> but Impostors; but what Evidence that must be (whereby we may convince these pre<g ref="char:EOLhyphen"/>judiced Opposers) he has not told us: However be it observed, that if true <hi>Christians</hi> must shew some <hi>Outward Evidence</hi> of their having <hi>immedi<g ref="char:EOLhyphen"/>ate Revelation</hi> or <hi>Inspiration;</hi> it follows, that all,
+<pb n="18" facs="tcp:207411:16"/> even <hi>Baptists</hi> and others, who now deny both, or say they ceas'd, are <hi>No Christians.</hi>
+               </p>
+               <p>3d, Suppose we do not, or are not called to give an <hi>Outward Evidence</hi> or <hi>Demonstration</hi> of our <hi>Christianity,</hi> to the Conviction of all who require it, or impose upon us therein; it fol<g ref="char:EOLhyphen"/>lows not, that we are No <hi>Christians,</hi> much less Impostors; for there were some, among whom Christ himself co<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld not do many Miracles, be<g ref="char:EOLhyphen"/>cause of their Unbelief; and others that said, <hi>He cast out Devils by Beelzebub.</hi> [All true <hi>Chri<g ref="char:EOLhyphen"/>stians</hi> were not Workers of Miracles.] Nor did the Apostles give such <hi>Evidence,</hi> as made all believe and confess they were true Ministers; for they were counted Deceivers, yet true; and so manifest in many Mens Consciences in the sight of God: And though we profess and ex<g ref="char:EOLhyphen"/>perience <hi>immediate</hi> and <hi>Divine Revelation,</hi> as the Ground of our Faith and Testimony; yet we do not profess (or look on our selves as obliged) to make all (that require <hi>Signs</hi> of us) believe and conf<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ss to us, <hi>as such,</hi> especially, such as are in Enmity and Prejudice against us: However, we hav<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a Proof or Evidence in Mens Conscien<g ref="char:EOLhyphen"/>ces, <hi>&amp;c.</hi>
+               </p>
+               <stage>[Here the <hi>Baptists</hi> were earnestly urged by very many Persons to continue the Discourse; <hi>VV P.</hi> calling upon them, <hi>Do not run away, do not run away;</hi> and adding]</stage>
+            </sp>
+            <sp>
+               <speaker>VV. P.</speaker>
+               <p>If so to believe as to <hi>have the VVit<g ref="char:EOLhyphen"/>ness in a Man's self,</hi> be sufficient to render a Man a <hi>Christian,</hi> as holy Scripture imports; then a Man's b<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing a <hi>Christian,</hi> depends not up<g ref="char:EOLhyphen"/>on a distinguishing <hi>External Evidence</hi> from what
+<pb n="19" facs="tcp:207411:16"/> an <hi>Impostor</hi> may give, but the <hi>Evidence in himself;</hi> otherwise, because an <hi>Impostor</hi> may make as fair a <hi>show,</hi> a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a real <hi>Christian</hi> that ha<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h the <hi>Evidence in himself,</hi> it would follow, that <hi>He</hi> is as good a <hi>Christian,</hi> though he hath no <hi>such Witness in himself.</hi>
+               </p>
+               <p>If <hi>He be not a</hi> Jew <hi>that is one</hi> Outward, <hi>but HE a true Gospel</hi> Jew <hi>that is one</hi> Inward; then since an <hi>Impostor</hi> can imita<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the <hi>Former,</hi> and not the <hi>Latter,</hi> it follows, that <hi>A Man may be a true</hi> Jew (that is, <hi>a true</hi> Christian) <hi>who may not exceed an</hi> Impostor, <hi>as to</hi> External Evidence, <hi>VVords or Forms.</hi>
+               </p>
+               <p>If the <hi>Spirit of God witnessing with the Spirits</hi> of the Ancient <hi>Christians,</hi> that they were Chil<g ref="char:EOLhyphen"/>dren of God, was a sufficient Evidence thereof; then since no Impostor has that Evidence, and that Evidence is not visible, it follows that a Man may be a <hi>Christian</hi> by such a Testimony that doth not always distinguish him by outward Observation, to the Eyes of the World, from an Impostor.</p>
+               <p>If <hi>Flesh and Blood could not reveal Christ,</hi> nei<g ref="char:EOLhyphen"/>ther could Flesh and Blood see or reveal that Revelation: But will it therefore follow that Revelation was no Evidence in it self, and that <hi>Peter</hi> was <hi>No Christian?</hi>
+               </p>
+               <stage>[Note Reader, <hi>whilst</hi> W. Penn <hi>was speaking,</hi> J. Ives, T. Plant, R. Taylor, <hi>&amp;c. went their way; but the Auditory remained, bating it may be, of Two Thousand People, not One Hundred that went away with them.]</hi>
+               </stage>
+               <p>In short, if <hi>Jer. Ives</hi> intended an Evidence, that is, such as should be convincing to some bo<g ref="char:EOLhyphen"/>dy,
+<pb n="20" facs="tcp:207411:17"/> though this is not absolutely necessary in it self, as in the Case of a Man that is <hi>born Dumb,</hi> or one <hi>struck Speechless</hi> upon a <hi>sick-Bed,</hi> &amp;c. yet will it not reach the Terms of <hi>J. Ives</hi> his Question: And if he intend by an Evidence, such as should be convincing to every Body, then I utterly deny it; for by the same Reason, the greatest of Miracles, and most excellent Argu<g ref="char:EOLhyphen"/>ment that the Lord Jesus Christ bestowed upon the unbelieving <hi>Jews,</hi> would be no Evidence in it self, because not received by them. The Consequence is the horrid Blasphemy of the <hi>Pharisees,</hi> That he cast out Devils by <hi>Beelzebub,</hi> the Prince of Devils. This doth exclude all Martyrs from having a sufficient Evidence be<g ref="char:EOLhyphen"/>cause they could not convince their Pesecutors of the Validity of that Evidence.</p>
+               <p>I do not doubt the poor Woman that said, <hi>She could not dispute for Christ, but she could burn for him,</hi> had a sufficient <hi>Evidence,</hi> and better than an Impostor, that could have made a better <hi>verbal De<g ref="char:EOLhyphen"/>fence.</hi>
+                  <note place="margin">
+                     <hi>Book of Mart.</hi> 3. <hi>Vol.</hi> p. 298.</note> I remember that <hi>J. Bradford,</hi> that honest Martyr, gave this Answer to the <hi>Arch-Bishop</hi> of <hi>York, VVe do believe and know the Scriptures, as Christ's Sheep; not because the Church saith they are the Scriptures; but because they be so, being thereof assured by the same Spirit which spake them.</hi> This was all, I read, he gave to the <hi>Bishop,</hi> as an <hi>Evidence</hi> of his Faith concerning the Scriptures: Did therefore <hi>J. Bradford</hi> believe them no more than an Impostor, because an Impostor might say so? Or was there no better <hi>Evidence</hi>
+                  <pb n="21" facs="tcp:207411:17"/> to <hi>Protestants</hi> of him, than that he was an Im<g ref="char:EOLhyphen"/>postor?</p>
+               <p>Also B. <hi>Jewel,</hi> one of the learnedst and most ancient <hi>Prelates</hi> of the <hi>Church</hi> of <hi>England,</hi> in his Book against <hi>Harding,</hi> p. 532, 534. asserts, <hi>That without the special Help, Prompting and Reve<g ref="char:EOLhyphen"/>lation of God's Holy Spirit, the Scriptures are to the Reader, be he never so wise or well learned, as the Vision of a Sealed Book:</hi> So that, <hi>1st. Inspera<g ref="char:EOLhyphen"/>tion</hi> was the Rule of their believing and under<g ref="char:EOLhyphen"/>standing Scripture: <hi>2dly,</hi> The <hi>Evidence</hi> that they and other <hi>Christians</hi> gave of their <hi>Christia<g ref="char:EOLhyphen"/>nity,</hi> besides good Words and Works, was, that internal <hi>Evidence</hi> of the Spirit, which <hi>Gaul. Cradock</hi> affirms, <hi>gives to know the Spirit, or Fruits of it, in other Men.</hi> To conclude, if Ar<g ref="char:EOLhyphen"/>ticles of Faith, according to Scripture, the In<g ref="char:EOLhyphen"/>spiration of the Spirit of Truth, fair Words, and sober Living, and Sufferings, are no <hi>Evi<g ref="char:EOLhyphen"/>dence,</hi> because imitable, or pretended to by Im<g ref="char:EOLhyphen"/>postors; or that all such are Impostors, who can<g ref="char:EOLhyphen"/>not Evidence their Right to such things; not on<g ref="char:EOLhyphen"/>ly Millions in Happiness are questioned, as to their Sincerity, by <hi>J. I.</hi> but the best among those he accounts Christians, now alive, must be concluded Impostors; and for himself, alas, poor Man! He will prove an IMPOSTOR with a witness.</p>
+            </sp>
+            <sp>
+               <speaker>J. Crook,</speaker>
+               <p>It seems very unreasonable, that he that hath Faith, and is a true Believer, should give an <hi>Outward Evidence</hi> of his <hi>Faith to him that hath no true Faith, or else he must be</hi> No Chri<g ref="char:EOLhyphen"/>stian; seeing the Scripture saith, and it is true, That <hi>there is a white Stone, and a New Name</hi>
+                  <pb n="22" facs="tcp:207411:18"/>
+                  <hi>written in it, which no Man knows, but he that hath it:</hi> And he that hath it in himself, knows <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t cer<g ref="char:EOLhyphen"/>tainly to be the <hi>True Evidence,</hi> when he hea<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s it from another; for it answers, <hi>as Face to Face in a Glass:</hi> And as <hi>Job</hi> saith, <hi>There is an Ear that tryeth VVords, as the Palate tasteth Meat,</hi> &amp;c.</p>
+               <stage>[Much more was spoke by him to Evidence the Truth of this Assertion, to the Peoples great Contentment; but cannot so particularly and ex<g ref="char:EOLhyphen"/>actly be remembred.]</stage>
+            </sp>
+            <sp>
+               <speaker>G. VVhitehead,</speaker>
+               <p>I have been concerned in ma<g ref="char:EOLhyphen"/>ny Disputes and Controversies about Religion, and with divers sorts of People; but <hi>never met with such unfair Dealing, clamorous VVork and hideous noise in Disputes, from any People, as from these Men,</hi> though we owe them no ill will; the Lord open their, and all your Understandings: I desire that <hi>Seriousness, Sobriety,</hi> and the <hi>Fear of God</hi> may possess all your Hearts, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. Keith,</speaker>
+               <p>Friends and People, I desire you to take notice, that whereas I said, We had as great Evidences to show that we were <hi>Christians,</hi> as any <hi>Baptists</hi> on Earth: I spoke modestly, I could have said more, and now I do say more; for there are two Outward Evidences of a Chri<g ref="char:EOLhyphen"/>stian unto others; one is <hi>Good VVorks;</hi> another is to <hi>Suffer patiently and boldly</hi> for the Principles of the <hi>Christian Religion:</hi> Now the <hi>Baptists</hi> dare not deny but our <hi>Works</hi> are as good as their own: And as for our <hi>Sufferings</hi> in times of Perse<g ref="char:EOLhyphen"/>cution, they commended them far above their own; then they could call us their <hi>WALL of Defence</hi> betwixt them and the Blows of Perse<g ref="char:EOLhyphen"/>cution; and told us, they Prayed for us, as di<g ref="char:EOLhyphen"/>vers
+<pb n="23" facs="tcp:207411:18"/> here present can witness. Note, <hi>Reader,</hi> if any object that Saying, <hi>Not the Suffering, but the Cause makes the Martyr;</hi> I say, the Maxim is true; but they have not yet proved, that our Cause is not good; this they did undertake, but have been shamefully foyled in their Pur<g ref="char:EOLhyphen"/>suance of it, as doth appear to such indifferent and impartial Auditors, as were present both times; and may appear to all such impartial Men, who read these Relations of the whole Matter in Print.</p>
+               <stage>
+                  <hi>[J. Crook</hi> added a few words more to the People, and concluded the Meeting with his Prayer.]</stage>
+            </sp>
+         </div>
+         <div type="apology">
+            <pb n="24" facs="tcp:207411:19"/>
+            <head>George Keith's VINDICATION FROM THE FORGERIES and ABUSES OF <hi>T. Hicks,</hi> and <hi>W. Kiffin,</hi> With the rest of his Confederate Brethren of the <hi>Barbican-Meeting,</hi> held at <hi>London</hi> the 28th of the 6th Month, 1674.</head>
+            <p>HAving waited long for an Opportunity to vindicate my Innocency from the <hi>For<g ref="char:EOLhyphen"/>geries</hi> and <hi>Abuses</hi> of <hi>T. Hicks</hi> and <hi>W. Kif<g ref="char:EOLhyphen"/>fin,</hi> with the rest of the Confederates of the <hi>Barbican-Meeting,</hi> held at <hi>London</hi> the 28th of the 6th Month, 1674. In which Meeting they publickly abus'd me behind my Back, when I was not present to answer for my self, nor could be present, having gone out of <hi>England</hi> into another Nation several days before any thing was published of their <hi>Barbican-Meeting:</hi> And seeing I was publickly injur'd both by <hi>T. H.</hi> and them, <hi>as others of my Friends and Bre<g ref="char:EOLhyphen"/>thren were;</hi> I judged it reasonable to desire a Pub<g ref="char:EOLhyphen"/>lick Meeting with them, that I might have an occasion as publickly to clear my self, as I was
+<pb n="25" facs="tcp:207411:19"/> publickly abused; therefore I joyned Issue with my Friends <hi>G. Whitehead, W. Penn,</hi> and <hi>S. Crisp,</hi>
+               <note place="margin">
+                  <hi>They were so indeed then, and are now the same Men, yet by thee opposed and basely ex<g ref="char:EOLhyphen"/>posed, in favour of</hi> T. Hicks, <hi>so that thou art</hi> Tho. Hicks <hi>re<g ref="char:EOLhyphen"/>vived.</hi>
+               </note> who were also publickly a<g ref="char:EOLhyphen"/>bused with me, in divers Letters, to desire them to give us a Publick Meeting for clearing our selves of the <hi>Forgeries</hi> of <hi>T. H.</hi> One Meeting they granted us at <hi>Barbican,</hi> the 9th of the 8th Month; but so loath were they to hear us make good our Charge against both him and them, that the Meeting of that Day was spent, and yet our Proof of the very first <hi>Article</hi> of our Charge not taken by them into Consideration: Another Publick Meeting we appointed our selves, which was reasonable, seeing they still deferred to hear us prove our Charge against <hi>T. H.</hi> but <hi>T. Hicks</hi> did not come to this Meeting, though he was greatly concerned in it, and had timely notice given him thereof, only some o<g ref="char:EOLhyphen"/>ther <hi>Baptists,</hi> with <hi>Jeremy Ives,</hi> as personating <hi>T. H.</hi> did apear; but neither at this Meeting (by reason of their most unreasonable evading our Charge) got we over the first Article; and since that time they seemed to yield to another Meeting, wherein my Charge against <hi>T. H.</hi> might be heard; but withal, told our Friends and us, that they would not hear any other thing until <hi>T. H.</hi> should be heard in what he could object against the <hi>Quakers,</hi> as being <hi>No Christians:</hi> And though I had a great desire to have a publick Opportunity to clear my Inno<g ref="char:EOLhyphen"/>cency, yet seeing I could not have it, but upon
+<pb n="26" facs="tcp:207411:20"/> that unreasonable Condition, invented by them only to evade the Pursuance of our Charge a<g ref="char:EOLhyphen"/>gainst <hi>T. H.</hi> I yielded rather to want that Op<g ref="char:EOLhyphen"/>portunity, especially seeing the Meeting they yielded unto, was not a Publick Meeting as the former, but a Private Meeting of some <hi>Select Persons</hi> on each side: And indeed, such a <hi>private Meeting</hi> hath but little Service in it to clear one <hi>publickly</hi> from a <hi>publick Abuse,</hi> which I have found in part by Experience; for having had a <hi>private Meeting</hi> with <hi>T. H.</hi> before divers Witnesses on each side, wherein I had openly proved him to have <hi>grosly abused me,</hi> and brought him to that Strait, <hi>that he had nothing to answer, but that he referred himself to the Hearers;</hi> and some of the Hearers openly affirmed, who were neither of the <hi>Baptists</hi> nor <hi>Quakers,</hi> that <hi>T. H.</hi> had <hi>a<g ref="char:EOLhyphen"/>bused me:</hi> Yet after all this, I find <hi>T. H.</hi> and his <hi>Confederate</hi> Brethren renew the former A<g ref="char:EOLhyphen"/>buse: And having now for a long time waited the Opportunity of a <hi>publick Meeting</hi> with those <hi>Baptists,</hi> to clear my self of the Abuse of <hi>T. H.</hi> and his <hi>Confederates,</hi> and yet cannot obtain it; I find it lying as a Weight upon me, to take an Occasion of this Nature to clear my self, not so much for my self or my own Reputation, I can truly say, as for the <hi>Truth</hi>'s sake, and to remove <note place="margin">
+                  <hi>That is, the Reli<g ref="char:EOLhyphen"/>gion of the People called</hi> Quakers, <hi>which he is gone from▪</hi>
+               </note> the Stumbling-block out of the way of the Simple.</p>
+            <p>My first Charge against <hi>T. H.</hi> is of <hi>Forgery,</hi> in his <hi>Continuation of the Dialogue,</hi> p. 49. where <hi>forgedly</hi> he brings me in saying thus, <q rend="margDblQuotes">
+                  <hi>This</hi>
+                  <pb n="27" facs="tcp:207411:20"/>
+                  <hi>Christ came to seek and save, and all his Mi<g ref="char:EOLhyphen"/>nisters Preach'd People to this, the Lost in Man, that it might be found, a lost God, a lost Christ; this was the</hi> Sum <hi>and</hi> Substance <hi>of their Doctrine,</hi>
+               </q> Im. Rev. p. 75, 76. Upon which he thus dis<g ref="char:EOLhyphen"/>canteth (after he hath abused my words both by <hi>adding</hi> and <hi>diminishing) Blush O Heavens, and be astonished O Earth! Was ever such a thing as this heard of before, That Jesus Christ came to seek and save a lost God, a lost Christ? Was ever God and Christ in a lost Condition?</hi>
+            </p>
+            <p>Now Friendly and Impartial Reader, <hi>if thou lovest to be undeceived,</hi> and be'st but willing to see the <hi>Abuse</hi> and <hi>Forgery</hi> of <hi>T. H.</hi> in this par<g ref="char:EOLhyphen"/>ticular; do but read the words of my Book, as they stand entirely therein, and without any more pains thou wilt see the <hi>Deceit</hi> and <hi>Forge<g ref="char:EOLhyphen"/>ry, <hi>First,</hi>
+               </hi> by adding the word THIS, saying, This <hi>Christ came to seek and save;</hi> and then by alledging on me, that I say, <hi>Jesus Christ came to seek and save a lost God, a lost Christ,</hi> which passage is <note place="margin">
+                  <hi>And what art thou doing now thy self a<g ref="char:EOLhyphen"/>gainst that very Peo<g ref="char:EOLhyphen"/>ple and way</hi> T. H. <hi>so grosly abused, and thou then defendedst</hi> mise<g ref="char:EOLhyphen"/>rable Man!</note>
+               <hi>gross Forgery</hi> and <hi>Abuse;</hi> for I no where say in my Book, <hi>That Jesus Christ came to seek and save a lost God, a lost Christ:</hi> it's true, in p. 79. I cite the words of Christ, <hi>That Jesus Christ came to seek and save that which was lost;</hi> but I do not say that <hi>Lost,</hi> which Christ came to seek and save, was <hi>God;</hi> nor in<g ref="char:EOLhyphen"/>deed is it deducible from my words by any just or reasonable Consequence; and God, who searcheth my Heart, knoweth, I never intended
+<pb n="28" facs="tcp:207411:21"/> any such thing, as that Christ came to seek and save a lost God. I cited the words of Christ, <hi>and I hope there is no Blasphemy in them,</hi> viz. <hi>Je<g ref="char:EOLhyphen"/>sus Christ came to seek and save that which was lose;</hi> but these words I do not apply to God and Christ, as if God and Christ were that <hi>Lost</hi> which Christ came to seek and save; and this may appear from my words themselves, which run by way of Parallel or Comparison, <hi>viz.</hi>
+               <q rend="margDblQuotes">And as Jesus Christ came to seek and save the lost; so all his Ministers ever Preached People to this, the Lost in them, that it might be found, that they may find a lost God, a lost Christ, whom they had lost, and from whom they were separated by their Sins; This was the <hi>Sum</hi> and <hi>Substance</hi> of their Doctrine, to turn them to God, and to his Son Jesus Christ <hi>near them:</hi>
+               </q> Now in these my words I draw a Parallel, wherein two Propositions run parallel, in both which the word <hi>Lost</hi> is; but it is not, nor cannot in both Propositions be understood of God and Christ; but only in the last Proposition by Lost is understood God and Christ, whom they had lost, and from whom they <hi>(viz. Men)</hi> were separated by their Sins: I say, in these two parallel Propositions, by <hi>lost</hi> cannot be meant one and the same thing, no more than in <hi>Rom.</hi> 5. 18. where it is said, <hi>As by the Offence of</hi> one, <hi>Judgment is come</hi> on all <hi>to Con<g ref="char:EOLhyphen"/>demnation; so by the Righteousness of</hi> one, <hi>the free Gift is come</hi> upon <hi>all to justification of Life:</hi> Here the word <hi>One</hi> in both Propositions is used; but in the one it signifieth the first <hi>Adam,</hi> in the other it signifieth <hi>Christ</hi> the second <hi>Adam;</hi>
+               <pb n="29" facs="tcp:207411:21"/> so by <hi>Lost</hi> in the first Proposition, I mean Men, who were lost, or lost Sinners, as also that pure Formation or Creation in Men, which by Man's Fall came to be vailed and slain in him, but not annihilated; and by <hi>Lost</hi> in the Second Proposition, I understand God and Christ, whom Men had lost, and so all the true Mini<g ref="char:EOLhyphen"/>sters of Christ Preached Men to God and Christ whom they had lost, that they might find him, <hi>to wit,</hi> God and Christ, who was near them in their own House, that is, in their own Hearts; and so the plain and open Sense of my words is this, <hi>That as Jesus Christ</hi> came to seek and save the <hi>lost Souls</hi> of Men, and to raise up and recover the Image of God in Men again; <note place="margin">
+                  <hi>Do thy present a<g ref="char:EOLhyphen"/>betting Ministers of the Church of</hi> Eng<g ref="char:EOLhyphen"/>land, Presbyterians, Independants, Ana<g ref="char:EOLhyphen"/>baptists <hi>do so? Thou knowest they do not. What are they then, by thy own assertion? O</hi> George, <hi>see whence thou art fallen and Re<g ref="char:EOLhyphen"/>pent.</hi>
+               </note> so <hi>all the true Ministers of Christ</hi> Preached People to God and Christ <hi>near them,</hi> whom tho' Men had lost, yet were near unto them, to save them, and to bring them again into the Enjoyment of him, and Fel<g ref="char:EOLhyphen"/>lowship with him.</p>
+            <p>The second part of <hi>T. H.</hi> his <hi>Forgery</hi> in this particular, is by diminishing from my words, and cutting off from a perfect Sentence the <hi>last</hi> Part of it, which is explanatory of the first, <hi>viz.</hi> from this perfect and intire Sentence<hi>—That they may find a lost God, a lost Christ, whom they had lost, and from whom they were separated by their Sins;</hi> which words, <hi>[whom they had lost, and from whom they were separated by their Sins]</hi> do clear me,
+<pb n="30" facs="tcp:207411:22"/> that I did not mean that God or Christ was in a lost Condition, or that God had lost himself, but that Men by their Sins had lost God and Christ: And indeed, that which gave me occa<g ref="char:EOLhyphen"/>sion to use the word <hi>lost,</hi> was the Parable of Christ concerning the Woman having lost her piece of Silver in her House, <hi>Luke</hi> 15. 8, 9. <hi>And she lighteth a Candle and sweepeth the House, and seeketh diligently, till she find it, and when she find<g ref="char:EOLhyphen"/>eth it, she calleth her Friends and maketh merry with them, through joy that the lost piece of money is found:</hi> And this House (say I) where the lost piece of Money was lost, and is found, is Man's Heart; it was lost by <hi>Adam</hi>'s Fall, yet it re<g ref="char:EOLhyphen"/>mained still in the House, and in the House in Man's Heart it's to be found; and the Candle is lighted in this House, and it must be swept to find it: <hi>By all which Christ Jesus points at this Principle,</hi>
+               <note place="margin">
+                  <hi>Brave Doctrine</hi> George, <hi>what says the B. of</hi> H. <hi>the D.</hi> M. <hi>thy</hi> Scotch Pres<g ref="char:EOLhyphen"/>byters, Conforming <hi>Ministers, to this? What says thy</hi> Baptist <hi>Auditors to this? This it self must go at last, or thou wilt never do thy business, but they'l leave thee, as thou hast left us.</hi>
+               </note>
+               <hi>his Kingdom or Appearance by his Light in Man's Heart;</hi> and the Scope of all these Para<g ref="char:EOLhyphen"/>bles is, to turn in Man's Mind to the <hi>Kingdom,</hi> the <hi>Light</hi> of Christ <hi>in</hi> the Heart, to find the Treasure, the Pearl, the lost piece of Mo<g ref="char:EOLhyphen"/>ney <hi>there,</hi> to find it where it was lost, and is hid; for <hi>there</hi> it is to be enjoyed and possessed; <hi>no Man possesses more of God or Christ but what is re<g ref="char:EOLhyphen"/>vealed in himself:</hi> See my Book, <hi>Im. Rev.</hi> p. 75. Now of this two fold, <hi>Abuse</hi> and <hi>Forgery,</hi> I
+<pb n="31" facs="tcp:207411:22"/> charge not only <hi>T. H.</hi> but <note place="margin">
+                  <hi>Which were</hi> Inde<g ref="char:EOLhyphen"/>pendents, <hi>and both sorts of</hi> Baptists.</note>
+               <hi>W. K.</hi> and his <hi>Confederate Brethren <hi>of the Barbican-Meeting,</hi>
+               </hi> who in their Book, called, <hi>The Qua<g ref="char:EOLhyphen"/>kers Appeal Answered,</hi> fall into the same Error with <hi>T. H.</hi> both <hi>adding</hi> and <hi>diminishing: First</hi> adding, as where they say, This <hi>Christ came to seek and save, and all his Ministers preached People to this, the Lost in Man, a</hi> Lost God, <hi>a Lost Christ;</hi> where they make the Word <hi>This,</hi> relate to God and Christ; this is an absolute <hi>Forgery;</hi> for <hi>neither</hi> in p. 75. nor p. 76. do I use the Word, <hi>This</hi> Christ came to seek and save, far less do I apply it to God. And <hi>Secondly, Dimi<g ref="char:EOLhyphen"/>nishing,</hi> a lost God, a lost Christ, leaving out the last Part of the Sentence <hi>[whom they had lost, and from whom they were separate by their Sins.]</hi>
+            </p>
+            <p>In a Meeting with <hi>T. H.</hi> before many Wit<g ref="char:EOLhyphen"/>nesses I accused him of this <hi>Forgery,</hi> telling him, that if he would take this Liberty to add to, and diminish from a Man's Words, he <hi>might as well alledge</hi> from the Scripture, that it saith, <hi>There is not a God,</hi> by leaving out the Words, <hi>The Fool hath said in his Heart:</hi> But to this <hi>T. H.</hi> answered three Things in that <hi>Pri<g ref="char:EOLhyphen"/>vate Meeting</hi> I had with him, which he there setteth down in the Book called, <hi>The Quakers Appeal answered;</hi> to all which three I did par<g ref="char:EOLhyphen"/>ticularly answer, whereof he saith nothing, and in that hath dealt unfairly and cowardly: But seeing he telleth them over again, I shall now take them into Consideration: <hi>First,</hi> Saith <hi>T. H. It's true, those Words were added,</hi> viz. Whom they had lost; <hi>yet they were no otherwise serviceable</hi>
+               <pb n="32" facs="tcp:207411:23"/>
+               <hi>to him, then as a Blind to deceive his unwary Rea<g ref="char:EOLhyphen"/>der; for first, by Lost in his whole Discourse in that Book cited, is intended of God and Christ, which he there calls, the Principle, Kingdom or Appearance of Christ by his Light in Man's Heart.</hi> To this I answer, if <note place="margin">
+                  <hi>And art thou turn'd</hi> T. Hicks <hi>to thy Bre<g ref="char:EOLhyphen"/>thren? Oh uncertain Man.</hi>
+               </note> I had used these Words but as a Blind to <hi>deceive the un<g ref="char:EOLhyphen"/>wary Reader,</hi> as he alledgeth, that is no Excuse for him to leave them out; he ought to have set down the perfect Sentence, and if there had been any Deceit in it, to have shewn it; but it is manifest that these Words were wilfully and deliberately clipt off by him, because they do so apparently cross his naughty Design of abusing me: But next I say, it's but a sorry and unreasonable Allegance, that I use these Words only as a <hi>Blind to deceive the unwa<g ref="char:EOLhyphen"/>ry Reader;</hi> his Reasons are too void and empty of Reason to prove any such Thing, as <hi>first,</hi> that by Lost <hi>in his whole Discourse in that Book cited, is intended of God and Christ.</hi> I answer, This is utterly false, and a most gross Untruth; for in <hi>several Places</hi> in my Book I speak expres<g ref="char:EOLhyphen"/>ly of <hi>lost Man,</hi> and the Soul of Man as lost and saved; for Proof of which, see these following Quotations out of my Book of <hi>Immediate Reve<g ref="char:EOLhyphen"/>lation,</hi> as p. 39. within two Lines of the End <hi>I say,</hi>
+               <q rend="margQuotes">The <note place="margin">Thou v<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uredst far; art thou of this mind still?</note> Gospel is the preaching the glad Tidings of <hi>Salvation</hi> unto poor <hi>lost Man</hi> by Jesus Christ himself <hi>im<g ref="char:EOLhyphen"/>mediately in his Heart:</hi>
+               </q> Mark here two Things; <hi>First,</hi> That I expresly speak of lost Man; <hi>Se<g ref="char:EOLhyphen"/>condly,</hi>
+               <pb n="33" facs="tcp:207411:23"/> That the <hi>Gospel</hi> is the <hi>preaching the</hi> Glad-Tidings of <hi>Salvation</hi> unto poor <hi>lost Man;</hi> whereas according to <hi>T. H.</hi> his <hi>Forgery,</hi> it had been, the preaching the glad Tidings of Salva<g ref="char:EOLhyphen"/>tion unto lost <hi>God,</hi> which is Blasphemous. A<g ref="char:EOLhyphen"/>gain, see p. 13. line 35. where <hi>I say,</hi>
+               <q rend="margQuotes">So that as the Lord remembreth Mercy unto <hi>lost Man</hi> in the midst of Wrath, <hi>&amp;c.</hi>
+               </q> Mark again, here I speak of <hi>lost Man.</hi> Again, in this same p. 13. line 5, 6, 7, 8. I speak expresly of the Salvation of the Soul, and of its Delivery from the Bondage of Corruption, line 13. Again in this same p. 13. about the middle of the Page I say, <q rend="margQuotes">Whereas the Mercy goeth forth in the Judgment towards <hi>Man</hi> in the fallen State to recover and convert him:</q> Mark, I do not say, according to <hi>T. H.</hi> his <hi>base <hi>Forgery,</hi>
+               </hi> whereas the Mer<g ref="char:EOLhyphen"/>cy <note place="margin">Thou canst call things sometimes by their right Names, I see.</note> goeth forth in the Judge<g ref="char:EOLhyphen"/>ment towards God in a lost Condition, to recover and convert God; but towards <hi>Man</hi> in the fallen State to recover and convert him: Also I do very plainly and ex<g ref="char:EOLhyphen"/>pressy distinguish betwixt the Soul or Mind of Man, and the Seed of God in the Soul: See p. 8. line 9, 10, 11, 12. and p. 23. line 28, 29, 30, <hi>&amp;c.</hi> I need not cite more Places, these be<g ref="char:EOLhyphen"/>ing sufficient to show <hi>T. H.</hi> his base <hi>Forgery. Secondly,</hi> Saith, <hi>T. H. The Sense I put upon the Word</hi> Lost, <hi>is no other then what W. P. allows,</hi>
+               <q rend="margQuotes">Lost, <hi>saith he,</hi> as taken by <hi>T. H.</hi> is meant of Man's <hi>lost</hi> Condition, and as there used by <hi>G. K.</hi> is understood of <hi>God</hi> and <hi>Christ,</hi> whom Man had <hi>lost, Reas. ag. Rail.</hi> p. 61.</q> To this I
+<pb n="34" facs="tcp:207411:24"/> answer, This Cover of <hi>T. H.</hi> is as narrow and weak as the former; for <hi>W. P. saith true,</hi> that by <hi>Lost</hi> I <note place="margin">W. P. <hi>is mightily be<g ref="char:EOLhyphen"/>holding to thee, and so</hi> thou hast been to him too, <hi>as coursely as thou hast used him since.</hi>
+               </note> understand <hi>God</hi> and <hi>Christ</hi> whom Man had <hi>lost,</hi> when I say, that they may find a <hi>lost God</hi> a <hi>lost Christ,</hi> &amp;c. But when I say, Christ came to seek and save that which was <hi>lost;</hi> by <hi>Lost</hi> in this Proposition, neither I, nor <hi>W. P.</hi> say, that by <hi>Lost,</hi> which Christ <hi>came</hi> to seek and save, is meant God; so that by the Word <hi>Lost</hi> in my Book, I do not mean only <hi>God</hi> and <hi>Christ,</hi> nor <hi>always,</hi> but <hi>sometimes</hi> Man, and <hi>sometimes</hi> that <hi>pure Creation</hi> or <hi>Formation</hi> of Holiness and Righ<g ref="char:EOLhyphen"/>teousness which God placed in Man in the Begin<g ref="char:EOLhyphen"/>ning, and <hi>sometimes</hi> God, whom Men had lost; and so <hi>impudently wicked</hi> is <hi>T. H.</hi> that he blames me for an <note place="margin">
+                  <hi>More plain dealing with</hi> T. Hicks.</note> Expression, and yet useth the same Expression, and com<g ref="char:EOLhyphen"/>mendeth it as safely spoken, <hi>viz. If you had said, that Jesus Christ came to seek and save Sinners who were ia a lost Condition, and to stir them up to seek after God whom they had lost, you had spoken safely:</hi> And in very deed, I speak all this upon the Matter, as is clear from the aforesaid Quotations: But I desire the Reader to take notice, that the whole Stress of <hi>T. H. his</hi> Allegati<g ref="char:EOLhyphen"/>on against me is, that by <hi>lost</hi>
+               <note place="margin">
+                  <hi>And could not his harms warn thee; thou seest how ill it was to pervert, how comest thou to</hi> lick up <hi>T. H's</hi> Vomit to spew it out upon thy Brethren?</note> in all my Book, I intend only <hi>God</hi> and <hi>Christ,</hi> as appeareth not only from what he saith in the <hi>Quakers Appeal answered,</hi>
+               <pb n="35" facs="tcp:207411:24"/> but what he saith in his <hi>third Dialogue,</hi> p. 35. <hi>Its true</hi> (saith <hi>T. H.)</hi> George Keith <hi>speaks of People finding a lost God, whom they had lost; but still if</hi> Lost <hi>be meant only God and Christ, how can Christ be said to seek and save a</hi> lost God? Here <hi>T. H.</hi> supposeth a gross Untruth, which is a <hi>Forgery,</hi> to wit, <hi>That by</hi> Lost <hi>I mean only God and Christ;</hi> I have shown the contrary above by plain Citations out of my Book.</p>
+            <p>The third Reason of <hi>T. H.</hi> for his Allegati<g ref="char:EOLhyphen"/>on is, <hi>That the Sense in which he represented me, was according to the Opinions of others of my Friends.</hi> To this I answer (as I formerly did) that now since he could not prove his <hi>Forged</hi> Sense from my own Words, and he goeth about to prove it from the Words of other Men, is not fair, nor answerable to his Undertaking, which was to prove that <hi>G. K.</hi> said so: And how doth he seek to prove this? <hi>Because</hi> W. P. <hi>or</hi> J. N. <hi>said so:</hi> But by this <hi>beggarly Evasion</hi> he may run round in a Circle continually, and do nothing, but manifest his own <hi>Impudence;</hi> for how will he prove, that <hi>W. P. J. N.</hi> or any real <hi>Qua<g ref="char:EOLhyphen"/>ker</hi> said so? He may as well say, <hi>Because</hi> G. K. <hi>said so:</hi> But I <hi>challenge</hi> him to produce the words of <hi>any of</hi>
+               <note place="margin">
+                  <hi>A Champion; who would think thou shouldst turn a</hi> Judas <hi>and</hi> Runnegado <hi>to thy Friends?</hi>
+               </note>
+               <hi>my Friends</hi> that ever said, <hi>That God and Christ was in a lost Condition, and that Christ came to seek and save a lost God.</hi>
+            </p>
+            <p>There remaineth another Citation out of my Book of <hi>Immediate Revelation,</hi> made use of by <hi>T. H.</hi> not in his <hi>Dialogues,</hi> but in <hi>The Quakers</hi>
+               <pb n="36" facs="tcp:207411:25"/>
+               <hi>Appeal Answered:</hi> But surely he could not have fain upon a Place in all my Book that doth more manifestly clear me, and demonstrate <hi>T. H.</hi> to be a <hi>vile <hi>Forger,</hi>
+               </hi> in alledging on me, that I say, <hi>Christ came to seek and save a Lost God, a Lost Christ:</hi> For none of all these words cited by him, speak any thing of Christ, his seeking and saving a Lost God; but, <hi>That God sent his Son into the World to seek and save the Work of his own Hands, <hi>that of the pure Creation in Man,</hi> which</hi>
+               <note place="margin">
+                  <hi>An odd Expression, as thou hast many, that were never approved by us, as more excep<g ref="char:EOLhyphen"/>tionable than any of poor Mechanick Wri<g ref="char:EOLhyphen"/>ters; and which by not being read by us, but slid over from</hi> Scotland <hi>into</hi> Holland <hi>were closely, and hastily Printed.</hi>
+               </note>
+               <hi>though shu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> up in Death, yet it remained, and perished not, as to its being.</hi> Now I challenge <hi>T. H.</hi> to show me where I, <hi>or any of my Friends,</hi> say, <hi>That th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Work of God's own Hands is God,</hi> or <hi>that the pure Crea<g ref="char:EOLhyphen"/>tion in Man is God.</hi> It is true, according to the Scrip<g ref="char:EOLhyphen"/>ture express Terms and way of speaking, we say, <hi>The Seed is Christ, and that Christ doth suffer, and is crucified in some; and that he is formed, or hath a spiritual Formation in his Saints, by which he lives and indwelleth in them; and this spiritual Formation of him is called Christ by way of</hi> Synecdoche, <hi>as being a Member of him; or by way of</hi> Metonymy, <hi>as being that Immediate Principle, in which he dwelleth, and through which he revealeth himself unto his Saints; who is the E<g ref="char:EOLhyphen"/>ternal, the Infinite and Ʋncreated Word and Light, who is God over all, blessed for ever.</hi> But that ever I, <hi>or any</hi>
+               <note place="margin">
+                  <hi>That is, any of the</hi> Quakers <hi>have said so.</hi>
+               </note>
+               <hi>have said,</hi> that <hi>this Formation</hi>
+               <pb n="37" facs="tcp:207411:25"/>
+               <hi>is God himself,</hi> or <hi>Christ as he is God,</hi> I put <hi>T. H.</hi> to show it, and if he cannot, he is a <hi>Forger.</hi> And when we say, <hi>Christ is crucified or slain in Wicked Men,</hi> let <hi>T. H.</hi> show where we say, that <hi>Christ, as in himself, or as he is God, is or can be crucified or slain in any Man or Men:</hi> This I am sure he cannot produce from any Words of mine; <hi>nor do I think he can from any words of any Man upon Earth, called a</hi> Qua<g ref="char:EOLhyphen"/>ker; yea, <hi>T. Hicks</hi> clears me sufficiently of this Charge, by citing my Words, where I say <hi>(Immed. Revelat.</hi> pag. 77.) <hi>That Christ, as he is and</hi>
+               <note place="margin">
+                  <hi>A Defence for us against</hi> G. Keith, <hi>and the whole World in o<g ref="char:EOLhyphen"/>ther Cases: For as</hi> T. H. <hi>did not distin<g ref="char:EOLhyphen"/>guish between Christ and his Manifestation, and inferr'd upon us because the Manifesta<g ref="char:EOLhyphen"/>tion could be clouded or extinguished, there<g ref="char:EOLhyphen"/>fore Christ in himself might; and then say, we say, just so we are tax'd with denying the Visible, because we press the Invisible Ap<g ref="char:EOLhyphen"/>pearance of Christ, and because we Allegorize Scriptures that have a literal Sense in them, so that they are true both ways; therefore we deny the literal Sense, which is false.</hi>
+               </note>
+               <hi>lives in himself, being an Eter<g ref="char:EOLhyphen"/>nal Incorruptible Life, he can<g ref="char:EOLhyphen"/>not be crucified, but in his Ap<g ref="char:EOLhyphen"/>pearance he may be.</hi> This cleareth me, that I hold it to be true, that Christ as God cannot be crucified or slain in Men; and yet the Scrip<g ref="char:EOLhyphen"/>ture speaketh in divers places of his being crucified in them, as <hi>Rev.</hi> 9. <hi>Gal.</hi> 3. 1. <hi>Heb.</hi> 6. 6. which therefore must be un<g ref="char:EOLhyphen"/>derstood in respect of his Ap<g ref="char:EOLhyphen"/>pearance or Manifestation in Men, and not as God, or as in himself; for to affirm, that <hi>Christ as he is God, can be crucified or dye,</hi> I hold it one of the greatest of Blas<g ref="char:EOLhyphen"/>phemies.</p>
+            <p>Thus, Reader, having cleared my self of the
+<pb n="38" facs="tcp:207411:26"/>
+               <hi>Forgeries</hi> of <hi>T. H.</hi> as to this Particular, I refer it to that which is noble, ingenuous and impar<g ref="char:EOLhyphen"/>tial in thy Conscience, to judge whether T. H's <hi>Blush O Heavens, and be Astonished O Earth,</hi> be be not applicable to himself for his <hi>so grosly and impudently Abusing both me and the World, by his so base and</hi>
+               <note place="margin">
+                  <hi>What must we call this,</hi> George, <hi>since I hear thou setst up now for mighty soft Words to Adversaries, but I believe thee to have been as good a Man with these, as thy</hi> smooth <hi>Words to the</hi> World, <hi>and</hi> roughe<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>to thy</hi> Old Friends.</note>
+               <hi>impudent <hi>Forgery.</hi>
+               </hi>
+            </p>
+            <p>One thing more I shall take notice of here, and that is <hi>T. H</hi>'s alledging, <hi>That</hi> G. K. <hi>affir<g ref="char:EOLhyphen"/>med to him (in the hearing of many credible Witnes<g ref="char:EOLhyphen"/>ses) That the Book intituled,</hi> Imm. Revelat. <hi>was written</hi>
+               <note place="margin">
+                  <hi>Well</hi> George, <hi>but in good earnest thou hast said so, and dost as good as say so now, in what follows. How will thy</hi> Turners Hall <hi>Congregation of the</hi> 11th <hi>of the</hi> 4th <hi>Month called</hi> June, <hi>relish this Doctrine, must the best Book thou ever writst, be expung'd the Cata<g ref="char:EOLhyphen"/>logue?</hi>
+               </note>
+               <hi>by the Immediate Inspi<g ref="char:EOLhyphen"/>ration <hi>of the Spirit of God</hi>
+               </hi> But to what purpose <hi>T. H.</hi> produceth this here <hi>(grant<g ref="char:EOLhyphen"/>ing that I had said these Words)</hi> is evident, to wit, <hi>That he may cast an</hi> Odium <hi>upon me,</hi> it being a great Crime in his Esteem, for any Man in these days to pretend to the <hi>Im<g ref="char:EOLhyphen"/>mediate Inspiration <hi>of the Spirit of God.</hi>
+               </hi> But <hi>T. H.</hi> may in this be disappointed, as in other his <hi>base Designs:</hi> However, he doth clear him<g ref="char:EOLhyphen"/>self (to give him his due) sufficiently, as to this Matter, to wit, That he is not guilty of the least Pretence to the <hi>Inspiration</hi> (or In<g ref="char:EOLhyphen"/>breathing) of the Spirit of God, which <hi>Inspi<g ref="char:EOLhyphen"/>ration</hi>
+               <pb n="39" facs="tcp:207411:26"/>
+               <hi>of the Almighty giveth Ʋnderstanding,</hi> as the Scripture saith expresly; and he who speaks or writes of the things of God without <hi>Inspira<g ref="char:EOLhyphen"/>tion,</hi> he doth it without a true and right Under<g ref="char:EOLhyphen"/>standing, as is manifest in the <hi>Scribling of this <hi>Forger</hi> T. H.</hi> And surely he that writeth <hi>Lyes, Per<g ref="char:EOLhyphen"/>versions,</hi>
+               <note place="margin">George <hi>thou art warm, but I accuse thee not, for I think he de<g ref="char:EOLhyphen"/>served that at least, and thou a great deal more, though not my part at this time to give it thee.</hi>
+               </note>
+               <hi>Forgeries</hi> and <hi>Slanders</hi> against any Man or Men, it is easie to deter<g ref="char:EOLhyphen"/>mine <hi>what Spirit</hi> hath inspired him so to do, even the <hi>Spirit</hi> of <hi>him who was a <hi>Lyar</hi> and <hi>Murderer</hi> from the beginning.</hi>
+               <note place="margin">
+                  <hi>Now</hi> George <hi>thou touchest upon the true string O hadst thou kept here, thou hadst been an Happy Man. This I truly believe, madest thee at first a</hi> Quaker, <hi>and then how beautiful was the way we walked in, and</hi> their very Feet <hi>that brought Glad-Ty<g ref="char:EOLhyphen"/>dings to thy Soul. How humble, low and little wast thou in</hi> thine own Eyes? <hi>How honouring and preferring of</hi> poor illiterate <hi>Men? How debasing and underva<g ref="char:EOLhyphen"/>luing of thy</hi> Accademical <hi>Education? Then the</hi> Tongues <hi>and</hi> Philosophy <hi>were not worthy to untie the Shooes Latchets of the Living (though homely) Preachers among the Poor misunder<g ref="char:EOLhyphen"/>stood, and therefore misrepresented</hi> Quakers. <hi>But we is me! thou art fallen, thou art degenerated; vain Wisdom, Pride and Passion have beguiled and bewildred thee; and now thou art be<g ref="char:EOLhyphen"/>come a Cage for every unclean Bird; thou canst receive any Joque and Jest, and be merry with any, confederate with any, against thy old and once honoured and much valued Friends, and that Fellowship which stands in that Life which made thy Soul</hi> alive to God. <hi>O that thou mayst return and find space to re<g ref="char:EOLhyphen"/>pent; for at this Door thou must come in again, or never see the Face of God with Joy.</hi>
+               </note>
+               <hi>And as to the <hi>Inspiration</hi> of the blessed Spirit of God, it is that by which my Soul was first made alive unto God, and by which it is preserved alive unto this Day, to serve him, and give Honour and Glory to his Name: And by the same did I receive a true Ʋnderstanding from God of what I did write in that Book, and had his Di<g ref="char:EOLhyphen"/>rection therein,</hi> in some mea<g ref="char:EOLhyphen"/>sure; which <hi>Inspiration of the</hi>
+               <pb n="40" facs="tcp:207411:27"/>
+               <hi>Spirit</hi> I do not appropriate to my self; <hi>for I know that it is given in the several Measures of it, accor<g ref="char:EOLhyphen"/>ding to the good Pleasure of God, to every true <hi>Chri<g ref="char:EOLhyphen"/>stian;</hi> and every true <hi>Minister of Christ</hi> hath it to lead him and direct him what to Say, Preach and Write, for the Service of others;</hi> and they who have it not, and believe not such a thing, but deny it, and are Enemies to it, I testifie for God, <hi>they are neither true <hi>Ministers of Christ,</hi> nor true <hi>Christians:</hi>
+               </hi> I remember a good saying of <hi>Bernard,</hi> concerning the Necessity of <hi>Inspiration unto Prayer;</hi> Tepida est omnis oratio, quam non pervenit inspiratio, <hi>i. e. All Prayer is Lukewarm, which doth not proceed from Inspiration.</hi> And said <hi>Augustine,</hi> Tractat. Ep. <hi>John</hi> 3. <hi>There is an <hi>in<g ref="char:EOLhyphen"/>ward</hi> Master, who teacheth; <hi>Christ</hi> teacheth; his <hi>Inspiration</hi> teacheth; <hi>where his Inspirati<g ref="char:EOLhyphen"/>on and his Unction is not, the Words out<g ref="char:EOLhyphen"/>wardly make a Noise in vain.</hi>
+               </hi> Many other Places could I cite, both out of Scripture and Antiquity, concerning the <hi>Necessity</hi> of the <hi>In<g ref="char:EOLhyphen"/>spiration of God</hi> to be with his People in all Ages. But when we speak of the <hi>Inspirations of God,</hi> that are given to us of God in our waiting upon him, and by which we are <hi>directed</hi> and <hi>helped what to Speak, or Pray, or Write,</hi> we do not hereby <hi>Equal</hi> our Selves, our Writings or Labours un<g ref="char:EOLhyphen"/>to the Apostles, and their Labours and Wri<g ref="char:EOLhyphen"/>tings: But a Measure of the same Spirit we
+<pb n="41" facs="tcp:207411:27"/> have received, which they had, which Spirit is one, and it is not idle, or without Operation in them who receive it; and its Operation is, to breathe (or inspire) Life, Light, Power, Vertue, Holiness and Righteousness, Wisdom and Knowledge in them who attend unto the same.</p>
+            <p>Thus having cleared my self of the weightiest Abuse of <hi>T. H.</hi> I proceed to give the <hi>Reader</hi> a small Hint at other two or three Particulars, which are also very abusive and gross: One is that because I say in my Book of <hi>Immed. Revel.</hi> pag. 4. <q rend="margQuotes">That there is a Necessity for these under the New Covenant-Dispensation to have things revealed unto them from the Lord (that are not Essentials of the <hi>Christian</hi> Reli<g ref="char:EOLhyphen"/>gion, but things relating to our Conversati<g ref="char:EOLhyphen"/>on in the World, see pag 3.) 'Which are not to be found in Scripture particularly, not so much as by Consequence:</q>
+               <hi>T. H.</hi> brings in these Words as a Proof, <hi>That according to the</hi> Quakers <hi>Principle they may excuse the Payment of a Just Debt, under Pretence it is not revealed unto them.</hi> Contin. Dial. pag. 69. But surely had not <hi>Impudence come to a wonderful Excess in T. H.</hi> he could never have committed such a gross Abuse on my Words, which are so far from giving the least seeming Colour for a Ground to build his <hi>Forgery</hi> on, that in the same place I expresly say, pag. 4. <q rend="margQuotes">That the Spirit of the Lord never can nor doth com<g ref="char:EOLhyphen"/>mand us to do things which are intrinsically, or in their own Nature Evil, or contrary to the Scripture:</q> But refusing to pay a just Debt
+<pb n="42" facs="tcp:207411:28"/> is contrary to the Scripture; As also, it is par<g ref="char:EOLhyphen"/>ticularly found in the Scripture, that we owe nothing to any Man but Love; therefore we should pay our Debts: This Consequence is clear, and therefore none but such a <hi>wretch<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d <hi>Forger</hi>
+               </hi> as <hi>T. H.</hi> could have cast such a groundless Calumny on my innocent Words. And like unto this is that other mentioned by <hi>T. H.</hi> of a <hi>Wo<g ref="char:EOLhyphen"/>man's casting off her relation unto her Husband, as warranted by our Principle, and my words before<g ref="char:EOLhyphen"/>cited,</hi> Contin. Dialog. p. 62. But that no such thing is to be done, is particularly to be found in Scripture, and therefore <hi>T. H.</hi> is an <hi>abusive <hi>Forger</hi> and <hi>Perverter.</hi>
+               </hi> Another Abuse of <hi>T. H.</hi> against me is, that he doth quote me as a Proof, <hi>That the Seed of God only in Man is taught, and nothing else,</hi> Contin. Dialog. pag. 66. Also, <hi>That God preacheth to himself, and is obeyed only by himself,</hi> Contin. Dialog. pag. 84. His alledged Proof is, that I say, <q rend="margQuotes">The Great Work of the Ministry is, to point the Hearers to this (that is, the <hi>Seed)</hi> in them.</q> Now let any of the weakest Capacity judge, if there be any thing in these words, giving the least Colour of Proof, that either the Seed only in Man is taught, or that God preacheth to himself: Sure<g ref="char:EOLhyphen"/>ly, a <hi>Blush O Heavens, and be astonished O Earth,</hi> may very deservedly be given at the <hi>Wickedness</hi> of <hi>T. H.</hi> for <hi>his so gross <hi>Perversion:</hi>
+               </hi> Who <hi>but one of the most wretched Impudence</hi> would draw such a Conclusion? <hi>The Work of the Ministers was, to point and direct the Hearers to the</hi> Seed <hi>in them, and to</hi> Christ <hi>in them, and</hi> God <hi>in them; Therefore only</hi> the Seed in them, and only God
+<pb n="43" facs="tcp:207411:28"/> and Christ in them <hi>is Taught?</hi> whereas the plain contrary doth follow, <hi>viz.</hi> That <hi>God</hi> and <hi>Christ</hi> in that pure and divine Seed in Men is the <hi>Teach<g ref="char:EOLhyphen"/>er,</hi> and not the Taught; <hi>and this is the very Aim and Design</hi>
+               <note place="margin">
+                  <hi>That must be a good Book in my Judgment, but what sayst thou now upon thy new To<g ref="char:EOLhyphen"/>picks? What will other</hi> Sincere Christians <hi>say? Thy new Associ<g ref="char:EOLhyphen"/>ates and Abettors? Will this pass with them for Current Coyn or not? If this will not pass muster with thee, thou art depra<g ref="char:EOLhyphen"/>ved; and if it will, thou wilt not pass with them, or they must turn</hi> Quakers <hi>too.</hi>
+               </note>
+               <hi>of my Book, that <hi>God and Christ is the Immediate Teacher of his People in their Hearts.</hi>
+               </hi> Another of his Abuses is, That because I say, <q rend="margQuotes">
+                  <hi>Jesus Christ</hi> is both the <hi>Seeds-man,</hi> the <hi>Seed,</hi> and al<g ref="char:EOLhyphen"/>so the Precious Fruit;</q> he alledgeth on me, that I say, <hi>The Work of Sanctification in us, is Christ himself,</hi> Contin. Dialog. pag. 57. Now when I say, Christ Jesus is the Fruit, I speak according to plain Scripture, which speaketh of <hi>Christ formed in the Saints;</hi> so Christ formed in the Saints is the precious <hi>Fruit</hi> or <hi>Product,</hi> which he himself, as he is that Eternal and Divine Word, bringeth forth in them: But the Work of <hi>Sanctification,</hi> is the <hi>Effect</hi> of Christ thus for<g ref="char:EOLhyphen"/>med, and not <hi>Christ</hi> himself, unless we speak <hi>m<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tonymically,</hi> as when the Cause is sometimes called by the Name of the Effect; as, when <hi>Paul</hi> said, <hi>That he,</hi> to wit, Christ, <hi>is made unto us Wisdom, Righteousness, Sanctification,</hi> &amp;c.</p>
+            <p>Thus, <hi>Reader,</hi> having briefly cleared my self of <hi>T. H.</hi> his <hi>Forgeries</hi> and <hi>Abuses,</hi> unjustly put upon me, I shall conclude with giving thee a small Hint, to let thee see, that notwithstanding
+<pb n="44" facs="tcp:207411:29"/>
+               <hi>T. H</hi>'s Pretence so much to <hi>Logick,</hi> how weak he is therein, and that is, his Illogical and Un<g ref="char:EOLhyphen"/>reasonable Conclusion, that because <hi>G. F.</hi> saith [A Man by the Spirit may discern where the Seed is in Death, and where it is not in Death; and where the Soul is living, and where it is in Death] From this <hi>Thomas Hicks</hi> infers, <hi>That, according to</hi> G. F. <hi>there is no Distinction betwixt the Seed and the Soul, but the Seed is the Soul: Ob<g ref="char:EOLhyphen"/>serve,</hi> saith <hi>T. H. he speaks the same of the Seed, he doth of the Soul.</hi> Now let us prove this sort of <hi>T. H</hi>'s <hi>Logick,</hi> and by the very same way of Reasoning we may prove <hi>Thomas Hicks</hi> to be an <hi>Ass</hi> or a <hi>Horse:</hi> as thus, <hi>An Ass or a Horse is a Living Creature, but Mortal, <hi>and</hi>
+               </hi> T. H. <hi>is a Living Creature, but Mortal; an</hi> Ass <hi>hath a Head, a Nose, Face and Ears, and so hath</hi> T. Hicks, <hi>an</hi> Ass <hi>can Eat, Drink, Sleep, and so can</hi> T. Hicks; here I speak the same of an <hi>Ass</hi> that I do of <hi>T. H.</hi> and so I may do of an <hi>Horse,</hi> a <hi>Load,</hi> a <hi>Viper,</hi> a <hi>Dog,</hi> a <hi>Rat;</hi> the Conclusion therefore is, according to <hi>T. H</hi>'s <hi>Logick,</hi> that <hi>T. Hicks</hi> is an <hi>Ass,</hi> a <hi>Horse,</hi> &amp;c. But true <hi>Logick,</hi> and indeed true Understanding as we are Men, teacheth us, That it is not the Agreement of some, but of all essential or ne<g ref="char:EOLhyphen"/>cessary Attributes, that make Two to be one and the same Thing. Now though some things may be said in common, both of the <hi>Soul</hi> and the <hi>Seed;</hi> yet other things cannot: As, the <hi>Soul</hi> is <hi>Corruptible,</hi> can and doth Sin; but the <hi>Seed of God</hi> is <hi>Incorruptible,</hi> sinneth not, nor can Sin; therefore the one is not the other. But that the <hi>Seed</hi> is burthened, or <hi>laden as a Cart with</hi>
+               <pb n="45" facs="tcp:207411:29"/>
+               <hi>Sheaves,</hi> by the Sinner, will not prove, <hi>That the Seed can Sin;</hi> for <hi>Christ Jesus bore our Sins,</hi> and they were a Load and Burthen upon him, who yet sinned not, nor ever could Sin.</p>
+            <p>Another Instance I shall give of his Weakness and Shallowness in another of his Reasonings a<g ref="char:EOLhyphen"/>gainst <hi>G. F.</hi> as where he thus reasoneth <hi>pag.</hi> 21. Dial. 3. <hi>But if every spiritual Substance be Infinite in it self (as</hi> Fox <hi>concludeth) then either there are no Angels, or Angels are no spiritual Sub<g ref="char:EOLhyphen"/>stances; or if they be spiritual Substances, they are no Creatures, but Infinite in themselves; and con<g ref="char:EOLhyphen"/>sequently, as many Angels as there are, so many Gods there must be.</hi>
+            </p>
+            <p>But note, <hi>Reader,</hi> G. F. spoke but of a <hi>spi<g ref="char:EOLhyphen"/>ritual Substance</hi> in the <hi>singular Number;</hi> Now if <hi>G. F.</hi> or any other should affirm, that <hi>nothing is purely a Spirit</hi> or <hi>spiritual Substance,</hi> properly, and strictly so consider'd, simple, and without all Composition of Body, but <hi>God only,</hi> what hath <hi>T. Hicks</hi>
+               <note place="margin">
+                  <hi>Though this be Phi<g ref="char:EOLhyphen"/>losophically true, and</hi> G. F. <hi>so far defen<g ref="char:EOLhyphen"/>ded; yet</hi> G. F's <hi>mean<g ref="char:EOLhyphen"/>ing was by Infinite, that which is opposite to Fi<g ref="char:EOLhyphen"/>nite, or what ends. So that he intended by Infinite, in that Place no more than Eternal, which may be said of Angels and Souls of Men, for they live for ever.</hi>
+               </note> to say against it? why, then it will follow, that an An<g ref="char:EOLhyphen"/>gel is not a spiritual Sub<g ref="char:EOLhyphen"/>stance. Well! But how will he prove, that <hi>an Angel is a spiritual Substance</hi> (I say, strictly and properly consi<g ref="char:EOLhyphen"/>der'd) that is to say, <hi>That an</hi> Angel <hi>hath no sort of Body or Corporeity; but is altogether</hi> Spirit, <hi>without all sort of Bo<g ref="char:EOLhyphen"/>dy, however subtil or spiritual?</hi>
+               <pb n="46" facs="tcp:207411:30"/> Surely, many Learned and Pious Men, both Ancient and Modern, hold that <hi>Angels and Souls of Men have some subtil or <hi>spiritual Body;</hi> and so are not altogether simple, uncompounded Be<g ref="char:EOLhyphen"/>ings, but consisting of Spirit and Body.</hi> But these Contemplations (I confess) are too high for <hi>T. Hicks</hi>'s weak and shallow Brain.</p>
+            <closer>
+               <signed>George Keith.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
